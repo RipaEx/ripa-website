@@ -5,11 +5,10 @@ layout: default
 <div class="business-hero">
     <div class="container">
         <h2 class="customFadeInUp">
-            A blockchain interoperability platform for a new world.
+            An hybrid-decentralized OpenSource exchange built on the ARK blockchain technology.
         </h2>
         <p class="customFadeInUp">
-            We are building a developer friendly blockchain interoperability platform 
-            to unleash the full potential of the crypto revolution.
+            Ripa Exchange is a hybrid-decentralized exchange with a strong focus on lowering the entry level for opening new exchanges and giving crypto traders safe and secure trading partners to operate on a daily basis.
         </p>
 
         <div class="actions customFadeInUp" data-toggle="modal" data-target="#video-modal">
@@ -46,10 +45,9 @@ $('#video-modal').on('hide.bs.modal', function (e) {
         <div class="row">
             <div class="col-12">
                 <div class="header">
-                    <h2>Blockchain Interoperability Platform</h2>
+                    <h2>The Exchange</h2>
                     <p>
-                        ARK Contract Execution Services (ACES) provides simple protocols and 
-                        tools for building a robust blockchain service marketplace.
+                        The Ripa Exchange is built based on the Open Source code of <a href="https://www.peatio.tech">Peatio [貔貅]</a> and thanks to RLSP (Ripa Liquidity Service Provider) each exchange in the RIPA network will share the same orderbook giving exchange managers a liquidity to offer to their end users from day 1.
                     </p>
                 </div>
             </div>
@@ -58,14 +56,15 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             <div class="col-md-4">
                 <div class="feature">
                     <h3>
-                        ACES Listeners
+                        Open Source
                     </h3>
-                    <p>
-                        ACES Listeners provide a way for all the different blockchain transaction events 
-                        to be easily consumed via a common REST-ful API. The API allows consumers to create 
-                        subscriptions and receive blockchain events in real-time using Webhook callbacks.
+                    <p style="text-align: justify;">
+                        Ripa Exchange is and always will be free of charge for exchange managers: you will have only to pay for server, network security operations, call center operators and other resources needed to run an exchange and give platinum support to your clients.
                     </p>
-                    <p>
+                    <p style="text-align: justify;">
+                        You can make all the customization you want on the source code as all the source base is released under the MIT license.
+                    </p>
+                    <p style="text-align: right;">
                         <a class="btn-sm btn-shadow btn-shadow-info" href="listeners">
                             Learn More
                         </a>
@@ -75,15 +74,15 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             <div class="col-md-4">
                 <div class="feature">
                     <h3>
-                        ACES Services
+                        Bank Grade Security
                     </h3>
-                    <p>
-                        ACES Services create and excute Service Contracts, which can be anything from uploading a 
-                        file to a storage blockchain, 
-                        performing value transfers, creating smart contracts, executing code on blockchain based 
-                        computing platforms, or interacting with IoT hardware.
+                    <p style="text-align: justify;">
+                        AES256 encryption keys and all the design of the exchange is build with a focus on security. Ruby on Rails is know to be a secure development environment for developers but we choose to complitely re-modularize the Peatio source base to make complete separation from the clients registry to the trading engine so no end users data will be compromised if the attacker is able to overcame  the first level of security.
                     </p>
-                    <p>
+                    <p style="text-align: justify;">
+                        International AML/KYC standards are in place to secure compliance for your exchange in whichever country you want to install your instance.
+                    </p>
+                    <p style="text-align: right;">
                         <a class="btn-sm btn-shadow btn-shadow-info" href="services">
                             Learn More
                         </a>
@@ -93,14 +92,18 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             <div class="col-md-4">
                 <div class="feature">
                     <h3>
-                        ACES Marketplace Console
+                        Ripa Liquidity Service Provider
                     </h3>
-                    <p>
-                        The ACES Marketplace Console is a consumer dashboard for searching and executing
-                        service contracts listed on the Marketplace.
-                        ACES Service providers can list their service nodes using the Marketplace API.
+                    <p style="text-align: justify;">
+                        RLSP is developed to permits you to have liquidity to offer to your clients from day 1 of your exchanges operation: your new Ripa Exchange instance will interface with the RIPA blockchain* to get all the liqudidy available in the exchanges network.
                     </p>
-                    <p>
+                    <p style="text-align: justify;">
+                        Exchange A that open the order will get 0,10% as transaction fee.
+                    </p>
+                    <p style="font-size: 70%;">
+                        * thank you to ACES-ARK technology
+                    </p>
+                    <p style="text-align: right;">
                         <a class="btn-sm btn-shadow btn-shadow-info" href="/marketplace">
                             Learn More
                         </a>
@@ -253,9 +256,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 <div class="business-single-client" style="height: 400px" data-scroll>
     <div class="quote-wrapper">
         <p>
-            "The future will be driven by many thousands of product specific blockchains. It is going to be 
-            exceedingly frustrating to consumers if we don’t do something about disconnected blockchains soon, 
-            because the technologies are coming around the corner at blazing speeds."
+            "Starting an exchange shouldn't be hard, what is hard is to give platinum support to your clients, comply with international regulations and have reliable banking partners to operate with: you should focus on that while the code and liquidity to start your exchanges operations is given to you free of charge."
         </p>
     </div>
 </div>
@@ -358,3 +359,21 @@ $('#video-modal').on('hide.bs.modal', function (e) {
         </div>
     </div>
 </div>
+
+
+<div class="row">
+    <div class="col-12">
+        <div class="cta text-center">
+            <h1 class="cta-title title">
+                Join the Crypto Revolution today.
+            </h1>
+            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io/">
+                Buy XPX NOW
+            </a>
+            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://github.com/RipaEx/">
+                Start your exchange
+            </a>
+        </div>
+    </div>
+</div>
+

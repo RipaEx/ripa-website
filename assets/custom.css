@@ -11,14 +11,15 @@ i.cc {
 }
 
 i.cc:hover {
-    color: #f0373c;
+    color: #e0f0fd;
     transform: scale(1.25);
     transform-origin: 0.49em 0.7em;
 }
 
 
 .footer-big-menu {
-    background-color: #17191B;
+/*    background-color: #f5f6fa;*/
+    background-color: #e0f0fd;
 }
 
 .footer-big-menu .menu .menu-link {
@@ -30,14 +31,14 @@ i.cc:hover {
 }
 
 .btn-shadow.btn-shadow-info {
-    color: #fff;
-    border: 1px solid #f0373c;
-    background-color: #f0373c;
+    color: #037cff;
+    border: 1px solid #e0f0fd;
+    background-color: #e0f0fd;
 }
 
 .btn-shadow.btn-shadow-info:hover {
     border: 1px solid #ccc;
-    background-color: #f0373c;
+    background-color: #e0f0fd;
 }
 
 .btn-roadmap {
@@ -49,16 +50,16 @@ i.cc:hover {
     text-transform: none;
 }
 .btn-roadmap:hover {
-    background-color: #f0373c;
-    border: 1px solid #f0373c;
-    color: #fff;
+    background-color: #e0f0fd;
+    border: 1px solid #e0f0fd;
+    color: #037cff;
 }
 
 
 .footer-big-menu .cta .btn-outline {
-    color: #fff;
-    border: 1px solid #f0373c;
-    background-color: #f0373c;
+    color: #037cff;
+    border: 1px solid #e0f0fd;
+    background-color: #e0f0fd;
 }
 
 .footer-big-menu .cta .btn-outline:hover {
@@ -95,11 +96,11 @@ html {
 }
 
 .index-devices h4 {
-    color: #f0373c;
+    color: #2f4166;
 }
 
 .spacial-features .feature h3 {
-    color: #f0373c;
+/*    color: #e0f0fd;*/
 }
 
 @media (min-height: 700px) {
@@ -110,12 +111,20 @@ html {
 }
 
 a, a:hover {
-    color: #f0373c;
+    color: #2f4166;
 }
 
-.navbar-dark {
+.navbar-light {
 /*    background-color: #17191B !important;*/
     background-color: #e0f0fd !important;
+}
+
+.dropdown-menu-light {
+    background-color: #e0f0fd !important;    
+}
+
+.title {
+    color: #395174 !important;
 }
 
 .navbar-dark .nav-item .nav-link {
@@ -152,7 +161,7 @@ a, a:hover {
 }
 
 .progress-bar {
-    background-color: #f0373c;
+    background-color: #e0f0fd;
     height: 32px;
     width:100%;
     text-align: left;
