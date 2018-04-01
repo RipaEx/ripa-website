@@ -12,7 +12,7 @@ layout: default
         </p>
 
         <div class="actions customFadeInUp" data-toggle="modal" data-target="#video-modal">
-            <button class="btn-shadow btn-shadow-info mr-md-1">Join XPX Pre-Sale</button>
+            <button class="btn-shadow btn-shadow-info mr-md-1">Join RIPA Pre-Sale</button>
         </div>
 
     </div>
