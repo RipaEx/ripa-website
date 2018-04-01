@@ -11,36 +11,18 @@ layout: default
             Ripa Exchange is an hybrid-decentralized exchange with a strong focus on lowering the entry level for opening new exchanges and giving crypto traders safe and secure trading partners to operate on a daily basis.
         </p>
 
-        <div class="actions customFadeInUp" data-toggle="modal" data-target="#video-modal">
-            <button class="btn-shadow btn-shadow-info mr-md-1">Join RIPA Pre-Sale</button>
+        <div class="actions customFadeInUp">
+            <a class="btn-shadow btn-shadow-info mr-md-1" href="/privSale">
+                Join RIPA Private Sale
+            </a>
         </div>
 
     </div>
 </div>
 
-<div class="modal fade" tabindex="-1" role="dialog" id="video-modal">
-  <div class="modal-dialog modal-lg modal-xlg">
-    <div class="modal-content">
-        <div class="modal-body">
-        <div class="embed-responsive  embed-responsive-16by9">
-            <iframe id="youtube_player" class="yt_player_iframe" type="text/html" src="https://www.youtube.com/embed/X94qHbZBYA8?enablejsapi=1&version=3&playerapiid=ytplayer" 
-            frameborder="0" allowscriptaccess="always">
-            </iframe>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<script>
-$('#video-modal').on('hide.bs.modal', function (e) {
-   $('.yt_player_iframe')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
-});
-</script>
+<div id="exchange" />
 
-
-
-<div class="spacial-features" data-scroll style="    margin: 80px auto 0;
-                                                     max-width: 1400px;">
+<div class="spacial-features" data-scroll style="margin: 80px auto 0; max-width: 1400px;">
     <section class="container">
         <div class="row">
             <div class="col-12">
@@ -97,7 +79,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     <p class="justify">
                         RLSP is developed to permits you to have liquidity to offer to your clients from day 1 of your exchanges operation: your new Ripa Exchange instance will interface with the RIPA blockchain* to get all the liqudidy available in the exchanges network.
                     </p>
-                    <p style="text-align: justify;">
+                    <p class="justify">
                         Exchange A that open the order will get 0,10% as transaction fee.
                     </p>
                     <p style="font-size: 70%;">
@@ -424,7 +406,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
             <h1 class="cta-title title">
                 Join the Crypto Revolution today.
             </h1>
-            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io/">
+            <a class="btn-shadow btn-shadow-info mr-md-1" href="/privSale">
                 Buy XPX NOW
             </a>
             <a class="btn-shadow btn-shadow-info mr-md-1" href="https://github.com/RipaEx/">

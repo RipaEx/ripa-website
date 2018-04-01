@@ -16,10 +16,14 @@ i.cc:hover {
     transform-origin: 0.49em 0.7em;
 }
 
+.social-link {
+    color: #838a9b !important;
+}
 
 .footer-big-menu {
-/*    background-color: #f5f6fa;*/
+    /*    background-color: #f5f6fa;*/
     background-color: #e0f0fd;
+    padding: 40px 0 80px !important;
 }
 
 .footer-big-menu .menu .menu-link {
@@ -55,18 +59,18 @@ i.cc:hover {
 
 .btn-roadmap {
     text-align: left;
-    width:100%;
+    width: 100%;
     color: #333;
     border: 1px solid #f5f5f5;
     background-color: #f5f5f5;
     text-transform: none;
 }
+
 .btn-roadmap:hover {
     background-color: #e0f0fd;
     border: 1px solid #e0f0fd;
     color: #037cff;
 }
-
 
 .footer-big-menu .cta .btn-outline {
     color: #037cff;
@@ -100,7 +104,7 @@ html {
     top: 0;
     height: 100%;
     width: 100%;
-    background: rgba(10,10,10,0.7);
+    background: rgba(10, 10, 10, 0.7);
 }
 
 .business-single-client {
@@ -112,7 +116,7 @@ html {
 }
 
 .spacial-features .feature h3 {
-/*    color: #e0f0fd;*/
+    /*    color: #e0f0fd;*/
 }
 
 @media (min-height: 700px) {
@@ -127,12 +131,12 @@ a, a:hover {
 }
 
 .navbar-light {
-/*    background-color: #17191B !important;*/
+    /*    background-color: #17191B !important;*/
     background-color: #e0f0fd !important;
 }
 
 .dropdown-menu-light {
-    background-color: #e0f0fd !important;    
+    background-color: #e0f0fd !important;
 }
 
 .title {
@@ -146,6 +150,7 @@ a, a:hover {
 #faq-accordion a, #faq-accordion a:hover {
     color: black;
 }
+
 #faq-accordion .card {
     margin-bottom: 10px;
 }
@@ -163,7 +168,9 @@ a, a:hover {
 }
 
 /*.content {*/
-    /*padding-top: 85px;*/
+
+/*padding-top: 85px;*/
+
 /*}*/
 
 @media (min-width: 1240px) {
@@ -175,15 +182,15 @@ a, a:hover {
 .progress-bar {
     background-color: #e0f0fd;
     height: 32px;
-    width:100%;
+    width: 100%;
     text-align: left;
     padding-left: 10px;
     vertical-align: middle;
-
-
 }
 
-body { padding-top: 85px; }
+body {
+    padding-top: 85px;
+}
 
 .index-clients {
     margin-top: 100px;
@@ -199,7 +206,6 @@ body { padding-top: 85px; }
     height: auto;
 }
 
-
 @media (min-width: 992px) {
     .index-features .features .icon {
         margin-right: 0;
@@ -207,7 +213,6 @@ body { padding-top: 85px; }
         position: relative;
         top: -24px;
     }
-
     .index-features .features .icon-roadmap {
         margin-right: 0;
         width: 60px;
@@ -225,6 +230,7 @@ body { padding-top: 85px; }
     width: 100%;
     text-align: left;
 }
+
 .spacial-features .feature h3 {
     text-align: left;
 }
