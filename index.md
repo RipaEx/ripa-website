@@ -12,7 +12,7 @@ layout: default
         </p>
 
         <div class="actions customFadeInUp" data-toggle="modal" data-target="#video-modal">
-            <button class="btn-shadow btn-shadow-info mr-md-1">Watch Intro Video</button>
+            <button class="btn-shadow btn-shadow-info mr-md-1">Join XPX Pre-Sale</button>
         </div>
 
     </div>
@@ -360,35 +360,58 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 <div class="index-clients">
     <div class="container">
         <header>
-            <h4>Connecting the best blockchain technologies</h4>
+            <h4>Accepting all mayor cryptocurrencies</h4>
         </header>
         <div class="row justify-content-center icons">
             <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc ARK" title="ARK"></i>
+                <i class="img-fluid mb-4 cc USDT" title="USDT"></i>
             </div>
             <div class="col-12 col-md-3 col-lg">
                 <i class="img-fluid mb-4 cc BTC" title="BTC"></i>
             </div>
             <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc LTC" title="LTC"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc XMR" title="XMR"></i>
+                <i class="img-fluid mb-4 cc BCH" title="BCH"></i>
             </div>
             <div class="col-12 col-md-3 col-lg">
                 <i class="img-fluid mb-4 cc ETH" title="ETH"></i>
             </div>
             <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc IOTA" title="IOTA"></i>
+                <i class="img-fluid mb-4 cc XRP" title="XRP"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc LTC" title="LTC"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc DOGE" title="DOGE"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc ARK" title="ARK"></i>
+            </div>
+        </div>
+        <div class="row justify-content-center icons">
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc STR" title="STR"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc RISE" title="RISE"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc LSK" title="LSK"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc DASH" title="DASH"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc XMR" title="XMR"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc DGB" title="DGB"></i>
+            </div>
+            <div class="col-12 col-md-3 col-lg">
+                <i class="img-fluid mb-4 cc STEEM" title="STEEM"></i>
             </div>
             <div class="col-12 col-md-3 col-lg">
                 <i class="img-fluid mb-4 cc NEO" title="NEO"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc SIA" title="SIA"></i>
-            </div>
-            <div class="col-12 col-md-3 col-lg">
-                <i class="img-fluid mb-4 cc GNT" title="GNT"></i>
             </div>
         </div>
     </div>
