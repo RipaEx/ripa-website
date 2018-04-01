@@ -5,10 +5,10 @@ layout: default
 <div class="business-hero">
     <div class="container">
         <h2 class="customFadeInUp">
-            An hybrid-decentralized OpenSource exchange built on the ARK blockchain technology.
+            A Crypto Asset Marketplace built on the ARK blockchain technology.
         </h2>
         <p class="customFadeInUp">
-            Ripa Exchange is a hybrid-decentralized exchange with a strong focus on lowering the entry level for opening new exchanges and giving crypto traders safe and secure trading partners to operate on a daily basis.
+            Ripa Exchange is an hybrid-decentralized exchange with a strong focus on lowering the entry level for opening new exchanges and giving crypto traders safe and secure trading partners to operate on a daily basis.
         </p>
 
         <div class="actions customFadeInUp" data-toggle="modal" data-target="#video-modal">
