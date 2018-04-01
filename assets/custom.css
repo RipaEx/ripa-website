@@ -41,6 +41,18 @@ i.cc:hover {
     background-color: #e0f0fd;
 }
 
+.justify {
+    text-align: justify !important;
+}
+
+.right {
+    text-align: right !important;
+}
+
+.center {
+    text-align: center !important;
+}
+
 .btn-roadmap {
     text-align: left;
     width:100%;

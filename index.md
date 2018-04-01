@@ -58,13 +58,13 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     <h3>
                         Open Source
                     </h3>
-                    <p style="text-align: justify;">
+                    <p class="justify">
                         Ripa Exchange is and always will be free of charge for exchange managers: you will have only to pay for server, network security operations, call center operators and other resources needed to run an exchange and give platinum support to your clients.
                     </p>
-                    <p style="text-align: justify;">
+                    <p class="justify">
                         You can make all the customization you want on the source code as all the source base is released under the MIT license.
                     </p>
-                    <p style="text-align: right;">
+                    <p class="right">
                         <a class="btn-sm btn-shadow btn-shadow-info" href="listeners">
                             Learn More
                         </a>
@@ -76,13 +76,13 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     <h3>
                         Bank Grade Security
                     </h3>
-                    <p style="text-align: justify;">
+                    <p class="justify">
                         AES256 encryption keys and all the design of the exchange is build with a focus on security. Ruby on Rails is know to be a secure development environment for developers but we choose to complitely re-modularize the Peatio source base to make complete separation from the clients registry to the trading engine so no end users data will be compromised if the attacker is able to overcame  the first level of security.
                     </p>
-                    <p style="text-align: justify;">
+                    <p  class="justify">
                         International AML/KYC standards are in place to secure compliance for your exchange in whichever country you want to install your instance.
                     </p>
-                    <p style="text-align: right;">
+                    <p class="right">
                         <a class="btn-sm btn-shadow btn-shadow-info" href="services">
                             Learn More
                         </a>
@@ -94,7 +94,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     <h3>
                         Ripa Liquidity Service Provider
                     </h3>
-                    <p style="text-align: justify;">
+                    <p class="justify">
                         RLSP is developed to permits you to have liquidity to offer to your clients from day 1 of your exchanges operation: your new Ripa Exchange instance will interface with the RIPA blockchain* to get all the liqudidy available in the exchanges network.
                     </p>
                     <p style="text-align: justify;">
@@ -103,7 +103,7 @@ $('#video-modal').on('hide.bs.modal', function (e) {
                     <p style="font-size: 70%;">
                         * thank you to ACES-ARK technology
                     </p>
-                    <p style="text-align: right;">
+                    <p class="right">
                         <a class="btn-sm btn-shadow btn-shadow-info" href="/marketplace">
                             Learn More
                         </a>
@@ -119,27 +119,27 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 <div class="index-clients">
     <div class="container">
         <header>
-            <h4>Platform Statistics</h4>
+            <h4>Ripa Blockchain Statistics</h4>
         </header>
         <div class="about-2-stats">
 
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 text-center">
-                        <span>4</span>
-                        <p>Listeners</p>
+                        <span>115,000,000</span>
+                        <p>Tokens</p>
                     </div>
                     <div class="col-md-3 text-center">
-                        <span>3</span>
-                        <p>Services</p>
+                        <span>101</span>
+                        <p>Delegates</p>
                     </div>
                     <div class="col-md-3 text-center">
-                        <span>1</span>
-                        <p>Marketplaces</p>
+                        <span>8 sec.</span>
+                        <p>Forging Time</p>
                     </div>
                     <div class="col-md-3 text-center">
-                        <span>0 BTC</span>
-                        <p>Volume</p>
+                        <span>2 XPY</span>
+                        <p>Forging Reward</p>
                     </div>
                 </div>
             </div>
@@ -150,80 +150,113 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 <div class="index-features" data-scroll>
     <div class="container">
         <header>
-            <h3>Platform Features</h3>
+            <h3>Exchange Features</h3>
         </header>
         <section class="features">
             <div class="row">
-                <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
-                    <section>
+                <div class="col-md-3 feature">
+                    <section class="center">
+                        <p>
+                            <i class="fab fa-osi fa-4x"></i>
+                        </p>
                         <h4>
                             Open Source
                         </h4>
                         <p>
-                            Everything on the ACES platform is open source and uses a permissive free software license (MIT).
+                            Peatio is a customizable cryptocurrency exchange solution architecture enables easy connection to KYC/AML, authentication, ETL/reporting, and other services.
                         </p>
                     </section>
                 </div>
-                <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
-                    <section>
-                        <h4>
-                            REST-ful APIs
-                        </h4>
+                <div class="col-md-3 feature">
+                    <section class="center">
                         <p>
-                            The ACES platform uses simple REST-ful APIs for easy integration.
+                            <i class="far fa-id-card fa-4x"></i>
+                        </p>
+                        <h4>
+                            KYC Verification
+                        </h4>
+                        <p class="center">
+                            Peatio KYC efficiently submits and exchanges KYC information to meet the banking supervisory standards and comply with Customer Due Diligence (CDD) requirements.
+                        </p>
+                    </section>
+                </div>
+                <div class="col-md-3 feature">
+                    <section class="center">
+                        <p>
+                            <i class="fas fa-cogs fa-4x"></i>
+                        </p>
+                        <h4>
+                            Transparent & Configurable
+                        </h4>
+                        <p class="center">
+                            Peatio is a true open source technology making it secure, transparent, flexible and highly configurable.
+                        </p>
+                    </section>
+                </div>
+                <div class="col-md-3 feature">
+                    <section class="center">
+                        <p>
+                            <i class="fas fa-language fa-4x"></i>
+                        </p>
+                        <h4>
+                            Internationalization
+                        </h4>
+                        <p class="center">
+                            Peatio supports a wide array of common languages, while improving usability for users all over the world.
                         </p>
                     </section>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
-                    <section>
-                        <h4>
-                            Decentrallized
-                        </h4>
+                <div class="col-md-3 feature">
+                    <section class="center">
                         <p>
-                            A marketplace platform that allows users to consume blockchain services offered by a 
-                            decentralized collection of service providers. 
+                            <i class="fas fa-users fa-4x"></i>
+                        </p>
+                        <h4>
+                            Proof of Solvency
+                        </h4>
+                        <p class="center">
+                            Peatio Proof of Solvency (PoS) allows users to verify the solvency of the Peatio based cryptocurrency exchange without compromising user privacy.
                         </p>
                     </section>
                 </div>
-                <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
-                    <section>
-                        <h4>
-                            Service Composition
-                        </h4>
+                <div class="col-md-3 feature">
+                    <section class="center">
                         <p>
-                            Use functional composition to chain ACES Services together.
+                            <i class="fas fa-suitcase fa-4x"></i>
+                        </p>
+                        <h4>
+                            Multi-Accounts
+                        </h4>
+                        <p class="center">
+                            Peatio allows to create multiple accounts and trading in multiple currencies. Peatio makes it is easy to trade different currencies.
                         </p>
                     </section>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
-                    <section>
-                        <h4>
-                            Incentivized
-                        </h4>
+                <div class="col-md-3 feature">
+                    <section class="center">
                         <p>
-                            The ACES platform provides an open fee model that allows service providers
-                            to compete in a free market.
+                            <i class="fas fa-rocket fa-4x"></i>
+                        </p>
+                        <h4>
+                            Enterprise Exchange
+                        </h4>
+                        <p class="center">
+                            Peatio enterprise exchange features include a high-performance matching engine, scalable distributed worker threads, and SMS 2-factor authentication.
                         </p>
                     </section>
                 </div>
-                <div class="col-md-6 feature">
-                    <img src="assets/images/ark-block-logo.png" class="icon" />
-                    <section>
-                        <h4>
-                            Programming Languages
-                        </h4>
+                <div class="col-md-3 feature">
+                    <section class="center">
                         <p>
-                            Built using light-weight microservices that are easy for providers
-                            to implement in different programming languages and frameworks.
+                            <i class="fas fa-arrows-alt fa-4x"></i>
+                        </p>
+                        <h4>
+                            Functional & Intuitive
+                        </h4>
+                        <p class="center">
+                            Clean, user friendly registration and login interface. Personalized deposit and withdraw procedure and a built-in proof-of-solvency audit.
                         </p>
                     </section>
                 </div>
@@ -235,13 +268,14 @@ $('#video-modal').on('hide.bs.modal', function (e) {
 
 <div class="index-devices" data-scroll>
     <section class="clearfix">
-        <img src="assets/images/aces-marketplace-contract-form.png" class="img-fluid devices"  style="border:1px solid #ddd"/>
+        <img src="assets/images/peatioTrading.jpg" class="img-fluid devices"  style="border:1px solid #ddd"/>
 
-        <h4>ACES Marketplace Console</h4>
-        <p>
-            The ACES Marketplace Console provides a simple web interface for tapping into available 
-            ACES Services listed on the public marketplace directory. An integrated payment wallet allows
-            service contracts to be executed and payed for directly though the Marketplace Console.
+        <h4>Ripa Exchange Trading Console</h4>
+        <p class="justify">
+            The Ripa Exchange Trading Console is a fully responsive trading UI built with responsive design to save you time and money, while enabling your clients to conveniently access your content on any device.
+        </p>
+        <p class="justify">
+            Ripa Exchange specializes in designing beautiful interfaces for content while balancing your application to be consistent as viewport increases.
         </p>
 
         <p>
