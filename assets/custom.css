@@ -197,6 +197,11 @@ body {
     text-align: center;
 }
 
+.index-clients.private-sale {
+    margin-top: 50px;
+    text-align: center;
+}
+
 .business-single-client {
     margin-bottom: 200px;
 }
