@@ -47,7 +47,7 @@ layout: default
                         You can make all the customization you want on the source code as all the source base is released under the MIT license.
                     </p>
                     <p class="right">
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="listeners">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="/comingSoon">
                             Learn More
                         </a>
                     </p>
@@ -65,7 +65,7 @@ layout: default
                         International AML/KYC standards are in place to secure compliance for your exchange in whichever country you want to install your instance.
                     </p>
                     <p class="right">
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="services">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="/comingSoon">
                             Learn More
                         </a>
                     </p>
@@ -86,7 +86,7 @@ layout: default
                         * thank you to ACES-ARK technology
                     </p>
                     <p class="right">
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="/marketplace">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="/comingSoon">
                             Learn More
                         </a>
                     </p>
@@ -250,7 +250,7 @@ layout: default
 
 <div class="index-devices" data-scroll>
     <section class="clearfix">
-        <img src="assets/images/peatioTrading.jpg" class="img-fluid devices"  style="border:1px solid #ddd"/>
+        <img src="assets/images/peatioTrading.png" class="img-fluid devices"  style="border:1px solid #ddd"/>
 
         <h4>Ripa Exchange Trading Console</h4>
         <p class="justify">
@@ -261,7 +261,7 @@ layout: default
         </p>
 
         <p>
-            <a class="btn-shadow btn-shadow-info mr-md-1" href="marketplace">
+            <a class="btn-shadow btn-shadow-info mr-md-1" href="/comingSoon">
                 Learn More
             </a>
         </p>

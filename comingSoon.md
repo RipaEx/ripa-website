@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Work in Progress
-permalink: /workInProgress/
+title: Coming Soon...
+permalink: /comingSoon/
 ---
 
 <div class="spacial-features customFadeInUp" data-scroll="">
@@ -9,7 +9,7 @@ permalink: /workInProgress/
         <div class="row">
             <div class="col-12">
                 <div class="header">
-                    <h2>Work In Progress</h2>
+                    <h2>Coming Soon...</h2>
                     <p>
                         This section is a work in progress: come back in a few days and you will find the functionality you are looking for, in the meanwhile from here you can:
                     </p>

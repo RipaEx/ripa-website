@@ -14,23 +14,22 @@ permalink: /privSale/thankYou
                         Contact us using the form below or in one of the social networks listed below indicating payment method (choosing from: <b>bitcoin, ethereum, ARK, LISK</b>) and indicating how many RIPA coins (XPX) you want to have: <b>each XPX coin is valued at €0,10*</b>.
                     </p>
                 </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-3"></div>
-      <div class="col-md-6 alert alert-success text-center">
-        <p></p>
-        <p style="text-align: center; font-size: 28;">
-          Your e-mail was successfully sent
-        </p>
-        <p style="text-align: center; font-size: 28;">
-          you will receive your XPX quote via e-mail in no more than 24 hours
-        </p>
-        <p></p>
-      </div>
-      <div class="col-md-3"></div>
-    </div>
-  </div>
-
+                <div class="container">
+                    <div class="row">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-6 alert alert-success text-center">
+                        <p></p>
+                        <p style="text-align: center; font-size: 28;">
+                        Your e-mail was successfully sent
+                        </p>
+                        <p style="text-align: center; font-size: 28;">
+                        you will receive your XPX quote via e-mail in no more than 24 hours
+                        </p>
+                        <p></p>
+                    </div>
+                    <div class="col-md-3"></div>
+                    </div>
+                </div>
                 <div class="index-clients">
                     <div class="container">
                         <header>
