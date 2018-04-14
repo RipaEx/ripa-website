@@ -29,7 +29,7 @@ layout: default
                 <div class="header">
                     <h2>The Exchange</h2>
                     <p>
-                        The Ripa Exchange is built based on the Open Source code of <a href="https://www.peatio.tech">Peatio [貔貅]</a> and thanks to RLSP (Ripa Liquidity Service Provider) each exchange in the RIPA network will share the same orderbook giving exchange managers a liquidity to offer to their end users from day 1.
+                        The Ripa Exchange is built based on the Open Source code of <a href="https://www.peatio.com">Peatio [貔貅]</a> and thanks to RLSP (Ripa Liquidity Service Provider) each exchange in the RIPA network will share the same orderbook giving exchange managers a liquidity to offer to their end users from day 1.
                     </p>
                 </div>
             </div>
