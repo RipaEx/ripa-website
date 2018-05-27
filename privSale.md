@@ -9,6 +9,7 @@ permalink: /privSale/
         <div class="row">
             <div class="col-12">
                 <div class="header">
+                    <h2>CURRENT BONUS: 100%</h2>
                     <h2>RIPA PRIVATE SALE has STARTED</h2>
                     <p class="justify">
                         Contact us using the form below or in one of the social networks listed below indicating payment method (choosing from: <b>bitcoin, ethereum, ARK, LISK</b>) and indicating how many RIPA coins (XPX) you want to have: <b>each XPX coin is valued at €0,10*</b>.
@@ -24,7 +25,7 @@ permalink: /privSale/
                         </div>
                         <div class="row">
                             <div class="col-md-12 text-center" style="padding: 10px;">
-                            <input type="subject" name="Subject" size="35" maxlength="10" required="true" placeholder="Coin to use: BTC, ETH, ARK, LISK">
+                            <input type="subject" name="Subject" size="35" maxlength="10" required="true" placeholder="Coin to use: BTC, ETH, ARK, LISK, SHIFT, RISE, KAPU">
                             </div>
                         </div>
                         <div class="row">
