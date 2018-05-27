@@ -120,7 +120,7 @@ layout: default
                         <p>Forging Time</p>
                     </div>
                     <div class="col-md-3 text-center">
-                        <span>2 XPY</span>
+                        <span>2 XPX</span>
                         <p>Forging Reward</p>
                     </div>
                 </div>
