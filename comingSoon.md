@@ -15,7 +15,7 @@ permalink: /comingSoon/
                     </p>
                 </div>
                 <div class="cta text-center">
-                    <a class="btn-shadow btn-shadow-info mr-md-1" href="/privSale/">
+                    <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io">
                         Buy XPX NOW
                     </a>
                     <a class="btn-shadow btn-shadow-info mr-md-1" href="https://github.com/RipaEx/">
