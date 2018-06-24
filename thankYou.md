@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thank You for your enquiry
-permalink: /privSale/thankYou
+permalink: /contact/thankYou
 ---
 
 <div class="spacial-features customFadeInUp" data-scroll="">
@@ -9,9 +9,9 @@ permalink: /privSale/thankYou
         <div class="row">
             <div class="col-12">
                 <div class="header">
-                    <h2>RIPA PRIVATE SALE has STARTED</h2>
-                    <p class="justify">
-                        Contact us using the form below or in one of the social networks listed below indicating payment method (choosing from: <b>bitcoin, ethereum, ARK, LISK</b>) and indicating how many RIPA coins (XPX) you want to have: <b>each XPX coin is valued at €0,10*</b>.
+                    <h2>WE ARE HERE TO HELP...</h2>
+                    <p class="center">
+                        Contact us using the form below or in one of the social networks listed below indicating your issue, idea or proposal.
                     </p>
                 </div>
                 <div class="container">
@@ -23,7 +23,7 @@ permalink: /privSale/thankYou
                         Your e-mail was successfully sent
                         </p>
                         <p style="text-align: center; font-size: 28;">
-                        you will receive your XPX quote via e-mail in no more than 24 hours
+                        a RipaEx operative will reply to your enquiry in 48 hours maximum
                         </p>
                         <p></p>
                     </div>
@@ -55,7 +55,7 @@ permalink: /privSale/thankYou
             <div class="col-12">
                 <div class="header">
                     <p class="center" style="font-size: 70%; text-align: center;">
-                        * Bitstamp last exchange rate is valid for 60 minutes from quote
+                        * a RipaEx operative will reply to your enquiry in 48 hours maximum
                     </p>
                 </div>
             </div>

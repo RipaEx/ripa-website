@@ -1,7 +1,7 @@
 ---
 layout: default
-title: RIPA Private Sale has Started
-permalink: /privSale/
+title: Contact RipaEx
+permalink: /contact/
 ---
 
 <div class="spacial-features customFadeInUp" data-scroll="">
@@ -9,14 +9,13 @@ permalink: /privSale/
         <div class="row">
             <div class="col-12">
                 <div class="header">
-                    <h2>CURRENT BONUS: 100%</h2>
-                    <h2>RIPA PRIVATE SALE has STARTED</h2>
-                    <p class="justify">
-                        Contact us using the form below or in one of the social networks listed below indicating payment method (choosing from: <b>bitcoin, ethereum, ARK, LISK</b>) and indicating how many RIPA coins (XPX) you want to have: <b>each XPX coin is valued at €0,10*</b>.
+                    <h2>WE ARE HERE TO HELP...</h2>
+                    <p class="center">
+                        Contact us using the form below or in one of the social networks listed below indicating your issue, idea or proposal.
                     </p>
                 </div>
                 <form method="POST" action="https://formspree.io/gsit80@gmail.com">
-                    <input type="hidden" name="_next" value="/privSale/thankYou" />
+                    <input type="hidden" name="_next" value="/contact/thankYou" />
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 text-center" style="padding: 10px;">
@@ -25,21 +24,21 @@ permalink: /privSale/
                         </div>
                         <div class="row">
                             <div class="col-md-12 text-center" style="padding: 10px;">
-                            <input type="subject" name="Subject" size="35" maxlength="10" required="true" placeholder="Coin to use: BTC, ETH, ARK, LISK, SHIFT, RISE, KAPU">
+                            <input type="subject" name="Subject" size="35" maxlength="10" required="true" placeholder="Subject">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12 text-center" style="padding: 10px;">
-                                <textarea rows="4" cols="75" name="message" style="resize: none;" required="true" placeholder="How many XPX you want to receive??"></textarea>
+                                <textarea rows="4" cols="75" name="message" style="resize: none;" required="true" placeholder="Your message..."></textarea>
                                 <p class="right" style="padding: 0 20% 0 20%; font-size: 70%; margin: 0px;">
-                                    * Bitstamp last exchange rate is valid for 60 minutes from quote
+                                    * a RipaEx operative will reply to your enquiry in 48 hours maximum
                                 </p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12 text-center" style="padding: 10px;">
                                 <p class="right" style="padding: 0 20% 0 20%; font-size: 70%; margin: 0px;">
-                                    <button class="btn-shadow btn-shadow-info mr-md-1" type="submit">BUY</button>
+                                    <button class="btn-shadow btn-shadow-info mr-md-1" type="submit">SEND</button>
                                 </p>                    
                             </div>
                         </div>
