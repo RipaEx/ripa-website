@@ -223,7 +223,7 @@ permalink: /faq/
                           <div class="col-md-12">
                             <p>XPX is not yet available on exchanges, as it is still at the early stages, exchange listing will happen towards the end of the development phase.</p>
                             <p>You can obtain XPX through the RIPA TEC Sale Channel here:</p>
-                            <p style="text-align:center;"><a href="https://tec.ripaex.io">TEC.RIPAEX.io</a></p>
+                            <p style="text-align:center;"><a href="https://tec.ripaex.io/sign-up">TEC.RIPAEX.io</a></p>
                             <p>Earn XPX by contributing to the project. If you have a skill or something worth contributing, message <a href="https://t.me/BitNow">@bitnow</a> in telegram with your idea and if it is used, you can earn XPX for your efforts.</p>
                           </div>
                         </div>

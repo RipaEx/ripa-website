@@ -12,7 +12,7 @@ layout: default
         </p>
 
         <div class="actions customFadeInUp">
-            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io">
+            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io/sign-up">
                 Join RIPA Token Sale
             </a>
         </div>
@@ -406,7 +406,7 @@ layout: default
             <h1 class="cta-title title">
                 Join the Crypto Revolution today.
             </h1>
-            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io">
+            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io/sign-up">
                 Buy XPX NOW
             </a>
             <a class="btn-shadow btn-shadow-info mr-md-1" href="https://github.com/RipaEx/">
