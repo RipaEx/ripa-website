@@ -15340,7 +15340,7 @@ you can use the generic selector below, but it's slower:
   display: inline-block;
   position: relative;
   border-radius: 30px;
-  color: #dfebf5;
+  color: #838a9b;
   border: 2px solid #c6d8e8;
   margin-right: 6px;
   -webkit-transition: all 0.2s;
@@ -15353,8 +15353,8 @@ you can use the generic selector below, but it's slower:
   margin-right: 0;
 }
 .footer-big-menu .menu .social-link:hover {
-  color: #fff;
-  border-color: #fff;
+  color: #C9C0BB;
+  border-color: #C9C0BB;
 }
 .footer-big-menu .menu .social-link i {
   position: absolute;
@@ -15566,8 +15566,8 @@ body {
 @media (min-width: 1200px) {
   .navbar-light .nav-item .nav-link--rounded {
     text-transform: capitalize;
-    border: 1px solid #aaa;
-    color: #555;
+    border: 1px solid #D4AF37;
+    color: #D4AF37;
     border-radius: 25px;
     margin-left: 20px;
     margin-top: 22px;
@@ -15579,8 +15579,8 @@ body {
     transition: all 0.15s ease-out;
   }
   .navbar-light .nav-item .nav-link--rounded:hover {
-    color: #333;
-    border-color: #444;
+    color: #B8860B;
+    border-color: #B8860B;
   }
   .navbar-light .nav-item .nav-link--rounded:active {
     -moz-transform: scale(0.93);

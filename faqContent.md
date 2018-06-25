@@ -1,4 +1,7 @@
-<div class="spacial-features customFadeInUp" data-scroll="">
+<div id="faq" />
+
+<div class="index-features" data-scroll>
+<div class="spacial-features customFadeInUp" data-scroll="" style="margin: 0px">
     <section class="container">
         <div class="row">
             <div class="col-12">
@@ -539,4 +542,5 @@
             </div>
         </div>
     </section>
+</div>
 </div>

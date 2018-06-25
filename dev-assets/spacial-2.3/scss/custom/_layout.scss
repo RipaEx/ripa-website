@@ -61,8 +61,8 @@ body {
       &--rounded {
         @media(min-width: 1200px) {
           text-transform: capitalize;
-          border: 1px solid #aaa;
-          color: #555;
+          border: 1px solid #D4AF37;
+          color: #D4AF37;
           border-radius: 25px;
           margin-left: 20px;
           margin-top: 22px;
@@ -71,8 +71,8 @@ body {
           @include transition(all .15s ease-out);
 
           &:hover {
-            color: #333;
-            border-color: #444;
+            color: #B8860B;
+            border-color: #B8860B;
           }
 
           &:active {

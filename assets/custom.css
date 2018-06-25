@@ -17,7 +17,7 @@ i.cc:hover {
 }
 
 .social-link {
-    color: #838a9b !important;
+    color: #838a9b;
 }
 
 .footer-big-menu {
@@ -30,6 +30,9 @@ i.cc:hover {
     color: #aaa;
 }
 
+.footer-big-menu .menu .menu-link:hover {
+    color: #000;
+}
 .footer-big-menu .bottom {
     color: #aaa;
 }
@@ -239,3 +242,33 @@ body {
 .spacial-features .feature h3 {
     text-align: left;
 }
+
+@media (min-width: 1200px) {
+    .buy-xpx-button {
+      text-transform: capitalize;
+      border: 1px solid #D4AF37;
+      color: #D4AF37;
+      border-radius: 25px;
+      margin-left: 5px;
+      margin-top: 22px;
+      margin-bottom: 20px;
+      padding: 8px 10px 9px;
+      -webkit-transition: all 0.15s ease-out;
+      -moz-transition: all 0.15s ease-out;
+      -ms-transition: all 0.15s ease-out;
+      -o-transition: all 0.15s ease-out;
+      transition: all 0.15s ease-out;
+    }
+    .buy-xpx-button:hover {
+      color: #B8860B;
+      border-color: #B8860B;
+    }
+    .buy-xpx-button:active {
+      -moz-transform: scale(0.93);
+      -o-transform: scale(0.93);
+      -ms-transform: scale(0.93);
+      -webkit-transform: scale(0.93);
+      transform: scale(0.93);
+    }
+}
+  
