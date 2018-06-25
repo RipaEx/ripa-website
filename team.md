@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ACES Contributors
-permalink: /contributors/
+title: RipaEx Team
+permalink: /team/
 ---
 
 <div class="spacial-features customFadeInUp" data-scroll="">
