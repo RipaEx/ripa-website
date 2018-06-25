@@ -307,7 +307,7 @@
     </div>
 </div>
 
-<div class="row">
+<!--- div class="row">
     <div class="col-12">
         <div class="cta text-center">
             <h1 class="cta-title title">
@@ -321,4 +321,4 @@
             </a>
         </div>
     </div>
-</div>
+</div --->
