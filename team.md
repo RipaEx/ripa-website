@@ -13,7 +13,7 @@
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/bitnow.jpg"> <br>
-                        <b>Giovanni silvestri</b><br> FOUNDER AND CEO 
+                        <b>Giovanni Silvestri</b><br> FOUNDER AND CEO 
                       </p>
                       <p style="text-align: center;">
                         <a target="_blank" href="https://bitcointalk.org/index.php?action=profile;u=497151;sa=summary"><i class="fab fa-bitcoin"></i></a>
