@@ -291,6 +291,8 @@ body {
     background-color: #fff;
     border: 1px solid #ddd !important;
     border-radius: 100%/20%;
+    height: 80px;
+    width: 80px;
     -webkit-transition: all .2s ease-in-out;
     -o-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -332,7 +334,7 @@ body {
 
   .neven img {
     border-radius: 15px;
-    width: 60%;
+    width: 100px;
     float: center;
     margin: 0 auto !Important;
   }

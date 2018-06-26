@@ -16,6 +16,8 @@
 
 {% include_relative exchange.md %}
 
+{% include_relative team.md %}
+
 {% include_relative faqContent.md %}
 
 <div class="spacial-features" data-scroll style="margin: 80px auto 0; max-width: 1400px;">

@@ -4,7 +4,7 @@
 <div class="index-features" data-scroll>
     <div class="container">
         <header>
-            <h3>Roadmap</h3>
+            <h2>Roadmap</h2>
         </header>
         <section class="features">
             <div class="row">
