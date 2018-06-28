@@ -6,14 +6,14 @@ i.cc {
     font-size: 4rem;
     display: inline-block;
     margin: 0 1.3rem 1.3rem 0;
-    transition: 0.1s ease all;
+    transition: .1s ease all;
     color: #333;
 }
 
 i.cc:hover {
     color: #e0f0fd;
     transform: scale(1.25);
-    transform-origin: 0.49em 0.7em;
+    transform-origin: .49em .7em;
 }
 
 .social-link {
@@ -33,6 +33,7 @@ i.cc:hover {
 .footer-big-menu .menu .menu-link:hover {
     color: #000;
 }
+
 .footer-big-menu .bottom {
     color: #aaa;
 }
@@ -95,7 +96,7 @@ html {
 }
 
 .business-hero {
-    background: url(../assets/images/headline.jpg);
+    background: url("../assets/images/headline.jpg");
     background-size: cover;
     background-position: center 0;
 }
@@ -111,7 +112,7 @@ html {
 }
 
 .business-single-client {
-    background-image: url(../assets/images/space.jpg);
+    background-image: url("../assets/images/space.jpg");
 }
 
 .index-devices h4 {
@@ -129,7 +130,8 @@ html {
     }
 }
 
-a, a:hover {
+a,
+a:hover {
     color: #2f4166;
 }
 
@@ -150,7 +152,8 @@ a, a:hover {
     font-size: 14px;
 }
 
-#faq-accordion a, #faq-accordion a:hover {
+#faq-accordion a,
+#faq-accordion a:hover {
     color: black;
 }
 
@@ -230,7 +233,8 @@ body {
     }
 }
 
-#faq-accordion a, #faq-accordion a:hover {
+#faq-accordion a,
+#faq-accordion a:hover {
     line-height: 1.5em;
 }
 
@@ -245,43 +249,42 @@ body {
 
 @media (min-width: 1200px) {
     .buy-xpx-button {
-      text-transform: capitalize;
-      border: 1px solid #D4AF37;
-      color: #D4AF37;
-      border-radius: 25px;
-      margin-left: 5px;
-      margin-top: 22px;
-      margin-bottom: 20px;
-      padding: 8px 10px 9px;
-      -webkit-transition: all 0.15s ease-out;
-      -moz-transition: all 0.15s ease-out;
-      -ms-transition: all 0.15s ease-out;
-      -o-transition: all 0.15s ease-out;
-      transition: all 0.15s ease-out;
+        text-transform: capitalize;
+        border: 1px solid #D4AF37;
+        color: #D4AF37;
+        border-radius: 25px;
+        margin-left: 5px;
+        margin-top: 22px;
+        margin-bottom: 20px;
+        padding: 8px 10px 9px;
+        -webkit-transition: all .15s ease-out;
+        -moz-transition: all .15s ease-out;
+        -ms-transition: all .15s ease-out;
+        -o-transition: all .15s ease-out;
+        transition: all .15s ease-out;
     }
     .buy-xpx-button:hover {
-      color: #B8860B;
-      border-color: #B8860B;
+        color: #B8860B;
+        border-color: #B8860B;
     }
     .buy-xpx-button:active {
-      -moz-transform: scale(0.93);
-      -o-transform: scale(0.93);
-      -ms-transform: scale(0.93);
-      -webkit-transform: scale(0.93);
-      transform: scale(0.93);
+        -moz-transform: scale(0.93);
+        -o-transform: scale(0.93);
+        -ms-transform: scale(0.93);
+        -webkit-transform: scale(0.93);
+        transform: scale(0.93);
     }
 }
-  
+
 .nspArt img {
     -webkit-transition: all .3s ease-out;
     -moz-transition: all .3s ease-out;
     -ms-transition: all .3s ease-out;
     -o-transition: all .3s ease-out;
     transition: all .3s ease-out;
-  }
+}
 
-
-  .nspArt img.nspImage {
+.nspArt img.nspImage {
     -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
     display: block;
@@ -296,57 +299,158 @@ body {
     -webkit-transition: all .2s ease-in-out;
     -o-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
-  }
+}
 
-  .nspImage:hover {
+.nspImage:hover {
     -webkit-transform: scale(1.2);
     -moz-transform: scale(1.2);
     -ms-transform: scale(1.2);
     -o-transform: scale(1.2);
     transform: scale(1.2);
     transition: all .3s ease-out;
+}
 
-  }
-
-  .even {
+.even {
     background: #f9f7f7;
     padding: 10px;
     border-radius: 5px;
     margin: 15px;
-    ;
-  }
+}
 
-
-  .even img {
+.even img {
     border-radius: 15px;
     width: 60%;
     float: center;
     margin: 0 auto !Important;
-  }
+}
 
-  .neven {
+.neven {
     background: #e0f0fd;
     padding: 10px;
     border-radius: 5px;
     margin: 15px;
     height: 220px;
-  }
+}
 
-  .neven img {
+.neven img {
     border-radius: 15px;
     width: 100px;
     float: center;
     margin: 0 auto !Important;
-  }
+}
 
-  .event {
+.event {
     background: #f9f7f7;
     padding: 10px;
     border-radius: 5px;
-  }
+}
 
-  .nevent {
+.nevent {
     background: #e0f0fd;
     padding: 10px;
     border-radius: 5px;
-  }
+}
+
+.nspRoadmap p {
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -ms-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+
+.nspRoadmap p.nspRoadmapBox {
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd !important;
+    border-radius: 100%/20%;
+    height: 80px;
+    width: 80px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.nspRoadmapBox:hover {
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    transform: scale(1.5);
+    transition: all .3s ease-out;
+}
+
+.nevenRoadmapTitle {
+    color: #B8860B;
+    background: #0054b5;
+    font-family: "Liberation Sans", Liberation, sans-serif;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32pt;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    height: 120px;
+}
+
+.nevenRoadmapTitle p {
+    border-radius: 15px;
+    width: 100px;
+    display: inline-block;
+    margin: 0 auto !Important;
+    vertical-align: middle;
+}
+
+.nevenRoadmapTitleV {
+    color: #666666;
+    background: #c0c0c0;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    height: 150px;
+}
+
+.nevenRoadmapTextV {
+    color: #666666;
+    background: #c0c0c0;
+    font-weight: normal;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    height: 150px;
+}
+
+
+.nevenRoadmapTextV p {
+    border-radius: 15px;
+    width: 100px;
+    float: center;
+    margin: 0 auto !Important;
+}
+
+.nevenRoadmapTitleV p {
+    border-radius: 15px;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14pt;
+    font-weight: bold;
+    text-align: center;
+}

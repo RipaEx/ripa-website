@@ -16,6 +16,8 @@
 
 {% include_relative exchange.md %}
 
+{% include_relative roadmap.md %}
+
 {% include_relative team.md %}
 
 {% include_relative faqContent.md %}
