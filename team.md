@@ -12,7 +12,7 @@
                   <div class="row">
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/bitnow.jpg"> <br>
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/bitnow.JPG"> <br>
                         <b>Giovanni Silvestri</b><br> FOUNDER AND CEO 
                       </p>
                       <p style="text-align: center;">
@@ -23,7 +23,7 @@
                     </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/darkital.jpg"> <br>
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/darkital.jpeg"> <br>
                         <b>Antonello Arena</b><br> FOUNDER AND CFO
                       </p>
                       <p style="text-align: center;">
@@ -39,7 +39,6 @@
                       <p style="text-align: center;">
                         <a target="_blank" href="https://bitcointalk.org/"><i class="fab fa-bitcoin "></i></a>
                         <a target="_blank" href="https://t.me/isolagio"><i class="fab fa-telegram "></i></a>
-                        <a href="https://www.linkedin.com/in" target="blank"><i class="fab fa-linkedin-in "></i></a>
                       </p>
                     </div>
                     <div class="col-sm neven">
