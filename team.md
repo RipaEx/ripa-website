@@ -5,11 +5,13 @@
     <section class="container">
         <div class="row">
             <div class="col-12">
-                <div class="header">
-                  <h2>Management</h2>
-                </div>
                 <div class="container nspArt">
+                  <div class="header">
+                    <h2>Management</h2>
+                  </div>
                   <div class="row">
+                    <div class="col-sm">
+                    </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/bitnow.JPG"> <br>
@@ -41,6 +43,16 @@
                         <a target="_blank" href="https://t.me/isolagio"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
+                    <div class="col-sm">
+                    </div>
+                  </div>
+                  <div class="header">
+                    <br/>
+                    <h2>Advisors</h2>
+                  </div>
+                  <div class="row">
+                    <div class="col-sm">
+                    </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/gavrilo.jpg"> <br>
@@ -63,6 +75,8 @@
                         <a href="https://www.linkedin.com/company/adriatic-crypto-hub/" target="blank"><i class="fab fa-linkedin-in "></i></a>
                         <a href="https://adriaticrypto.org/" target="blank"><i class="fas fa-link "></i></a>
                       </p>
+                    </div>
+                    <div class="col-sm">
                     </div>
                   </div>
                   <div class="header">
