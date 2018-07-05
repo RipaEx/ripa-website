@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="header">
-                    <h1>Team</h1>
+                  <h2>Management</h2>
                 </div>
                 <div class="container nspArt">
                   <div class="row">
@@ -65,14 +65,20 @@
                       </p>
                     </div>
                   </div>
+                  <div class="header">
+                    <br/>
+                    <h2>Public Relations</h2>
+                  </div>
                   <div class="row">
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/freewilly.jpg"> <br>
-                        <b>Tom</b><br> COMMUNITY MANAGER AMERICA
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/Jan_Emil.jpg"> <br>
+                        <b>Jan Emil Christensen</b><br> COMMUNITY MANAGER AMERICA
                       </p>
                       <p style="text-align: center;">
-                        <a target="_blank" href="https://t.me/freewillynow"><i class="fab fa-telegram "></i></a>
+                        <a target="_blank" href="https://bitcointalk.org/index.php?action=profile;u=1118969"><i class="fab fa-bitcoin "></i></a>
+                        <a target="_blank" href="https://t.me/JanEmil"><i class="fab fa-telegram "></i></a>
+                        <a href="https://www.linkedin.com/in/janemil/" target="blank"><i class="fab fa-linkedin-in "></i></a>
                       </p>
                     </div>
                     <div class="col-sm neven">
@@ -99,13 +105,48 @@
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/wazzy.jpg"> <br>
-                        <b>Wazzy</b><br>  COMMUNITY MANAGER AFRICA - ASIA
+                        <b>Wazzy</b><br>  COMMUNITY MANAGER AFRICA - ASIA 1/2
                       </p>
                       <p style="text-align: center;">
                         <a target="_blank" href="https://t.me/Wazzy"><i class="fab fa-telegram "></i></a>
                         <a href="https://www.linkedin.com/in/warren-rogers-8721a069/" target="blank"><i class="fab fa-linkedin-in "></i></a>
                       </p>
                     </div>
+                    <div class="col-sm neven">
+                      <p style="text-align: center;">
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/emre.jpg"> <br>
+                        <b>Emre Akbas</b><br>  COMMUNITY MANAGER AFRICA - ASIA 2/2
+                      </p>
+                      <p style="text-align: center;">
+                        <a target="_blank" href="https://t.me/akbasemre21"><i class="fab fa-telegram "></i></a>
+                        <a href="https://www.linkedin.com/in/emre-akbas-821a6810b/" target="blank"><i class="fab fa-linkedin-in "></i></a>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-sm neven">
+                      <p style="text-align: center;">
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/freewilly.jpg"> <br>
+                        <b>Tom</b><br> Public &amp; Relations
+                      </p>
+                      <p style="text-align: center;">
+                        <a target="_blank" href="https://t.me/freewillynow"><i class="fab fa-telegram "></i></a>
+                      </p>
+                    </div>
+                    <div class="col-sm">
+                    </div>
+                    <div class="col-sm">
+                    </div>
+                    <div class="col-sm">
+                    </div>
+                    <div class="col-sm">
+                    </div>
+                  </div>
+                  <div class="header">
+                    <br/>
+                    <h2>Developer - Delegate</h2>
+                  </div>
+                  <div class="row">
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/goose.png"> <br>
@@ -116,8 +157,6 @@
                         <a target="_blank" href="https://t.me/Delegate_Goose"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
-                  </div>
-                  <div class="row">
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/arkship.jpg"> <br>
@@ -155,66 +194,44 @@
                         <a href="https://bitsnapp.com/" target="blank"><i class="fas fa-link "></i></a>
                       </p>
                     </div>
-                    <div class="col-sm neven">
-                      <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/RIPA_light_mini_transparent.png"> <br>
-                        <b>We are HIRING: propose your name here</b><br> DEVELOPER - DELEGATE
-                      </p>
-                      <p style="text-align: center;">
-                        <a target="_blank" href="https://bitcointalk.org/index.php"><i class="fab fa-bitcoin "></i></a>
-                        <a target="_blank" href="https://t.me/"><i class="fab fa-telegram "></i></a>
-                        <a href="https://www.linkedin.com/in/" target="blank"><i class="fab fa-linkedin-in "></i></a>
-                        <a href="" target="blank"><i class="fas fa-link "></i></a>
-                      </p>
-                    </div>
                   </div>
                   <div class="row">
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/RIPA_light_mini_transparent.png"> <br>
-                        <b>We are HIRING: propose your name here</b><br> DEVELOPER - DELEGATE
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/anmol.png"> <br>
+                        <b>Amol</b><br> DEVELOPER - DELEGATE
                       </p>
                       <p style="text-align: center;">
-                        <a target="_blank" href="https://bitcointalk.org/index.php"><i class="fab fa-bitcoin "></i></a>
-                        <a target="_blank" href="https://t.me/"><i class="fab fa-telegram "></i></a>
-                        <a href="https://www.linkedin.com/in/" target="blank"><i class="fab fa-linkedin-in "></i></a>
-                        <a href="" target="blank"><i class="fas fa-link "></i></a>
-                      </p>
-                    </div>
-                    <div class="col-sm neven">
-                      <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/RIPA_light_mini_transparent.png"> <br>
-                        <b>We are HIRING: propose your name here</b><br> DEVELOPER - DELEGATE
-                      </p>
-                      <p style="text-align: center;">
-                        <a target="_blank" href="https://bitcointalk.org/index.php"><i class="fab fa-bitcoin "></i></a>
-                        <a target="_blank" href="https://t.me/"><i class="fab fa-telegram "></i></a>
-                        <a href="https://www.linkedin.com/in/" target="blank"><i class="fab fa-linkedin-in "></i></a>
-                        <a href="" target="blank"><i class="fas fa-link "></i></a>
+                        <a target="_blank" href="https://t.me/dhokala"><i class="fab fa-telegram "></i></a>
+                        <a href="https://www.linkedin.com/in/amoltangade" target="blank"><i class="fab fa-linkedin-in "></i></a>
+                        <a href="https://twitter.com/mrheisenberger" target="blank"><i class="fab fa-twitter "></i></a>
                       </p>
                     </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/RIPA_light_mini_transparent.png"> <br>
-                        <b>We are HIRING: propose your name here</b><br> DEVELOPER - DELEGATE
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/gandalf.jpeg"> <br>
+                        <b>Gandalf</b><br> DELEGATE
                       </p>
                       <p style="text-align: center;">
-                        <a target="_blank" href="https://bitcointalk.org/index.php"><i class="fab fa-bitcoin "></i></a>
-                        <a target="_blank" href="https://t.me/"><i class="fab fa-telegram "></i></a>
-                        <a href="https://www.linkedin.com/in/" target="blank"><i class="fab fa-linkedin-in "></i></a>
-                        <a href="" target="blank"><i class="fas fa-link "></i></a>
+                        <a target="_blank" href="https://t.me/crypto_gandalf"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/RIPA_light_mini_transparent.png"> <br>
-                        <b>We are HIRING: propose your name here</b><br> DEVELOPER - DELEGATE
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/delegate.jpg"> <br>
+                        <b>Boldrin Nicola</b><br> DEVELOPER - DELEGATE
                       </p>
                       <p style="text-align: center;">
-                        <a target="_blank" href="https://bitcointalk.org/index.php"><i class="fab fa-bitcoin "></i></a>
-                        <a target="_blank" href="https://t.me/"><i class="fab fa-telegram "></i></a>
-                        <a href="https://www.linkedin.com/in/" target="blank"><i class="fab fa-linkedin-in "></i></a>
-                        <a href="" target="blank"><i class="fas fa-link "></i></a>
+                        <a target="_blank" href="https://t.me/Nick_Bold"><i class="fab fa-telegram "></i></a>
+                      </p>
+                    </div>
+                    <div class="col-sm neven">
+                      <p style="text-align: center;">
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/delegate.jpg"> <br>
+                        <b>Bled Gogaj</b><br> DEVELOPER - DELEGATE
+                      </p>
+                      <p style="text-align: center;">
+                        <a target="_blank" href="https://t.me/gobled"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
                     <div class="col-sm neven">
