@@ -14,7 +14,7 @@
                     </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/bitnow.JPG"> <br>
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/bitnow.jpg"> <br>
                         <b>Giovanni Silvestri</b><br> FOUNDER AND CEO 
                       </p>
                       <p style="text-align: center;">
@@ -233,7 +233,7 @@
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/delegate.jpg"> <br>
-                        <b>Boldrin Nicola</b><br> DEVELOPER - DELEGATE
+                        <b>Nick\_Bold</b><br> DEVELOPER - DELEGATE
                       </p>
                       <p style="text-align: center;">
                         <a target="_blank" href="https://t.me/Nick_Bold"><i class="fab fa-telegram "></i></a>
@@ -242,7 +242,7 @@
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/delegate.jpg"> <br>
-                        <b>Bled Gogaj</b><br> DEVELOPER - DELEGATE
+                        <b>gobled</b><br> DEVELOPER - DELEGATE
                       </p>
                       <p style="text-align: center;">
                         <a target="_blank" href="https://t.me/gobled"><i class="fab fa-telegram "></i></a>
