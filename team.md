@@ -14,7 +14,7 @@
                     </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/bitnow.jpg"> <br>
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/bitnow.JPG"> <br>
                         <b>Giovanni Silvestri</b><br> FOUNDER AND CEO 
                       </p>
                       <p style="text-align: center;">
@@ -119,7 +119,7 @@
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/wazzy.jpg"> <br>
-                        <b>Wazzy</b><br>  COMMUNITY MANAGER AFRICA - ASIA 1/2
+                        <b>Wazzy</b><br>  COMMUNITY MANAGER AFRICA - ASIA
                       </p>
                       <p style="text-align: center;">
                         <a target="_blank" href="https://t.me/Wazzy"><i class="fab fa-telegram "></i></a>
@@ -128,32 +128,12 @@
                     </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/emre.jpg"> <br>
-                        <b>Emre Akbas</b><br>  COMMUNITY MANAGER AFRICA - ASIA 2/2
-                      </p>
-                      <p style="text-align: center;">
-                        <a target="_blank" href="https://t.me/akbasemre21"><i class="fab fa-telegram "></i></a>
-                        <a href="https://www.linkedin.com/in/emre-akbas-821a6810b/" target="blank"><i class="fab fa-linkedin-in "></i></a>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-sm neven">
-                      <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/freewilly.jpg"> <br>
                         <b>Tom</b><br> Public &amp; Relations
                       </p>
                       <p style="text-align: center;">
                         <a target="_blank" href="https://t.me/freewillynow"><i class="fab fa-telegram "></i></a>
                       </p>
-                    </div>
-                    <div class="col-sm">
-                    </div>
-                    <div class="col-sm">
-                    </div>
-                    <div class="col-sm">
-                    </div>
-                    <div class="col-sm">
                     </div>
                   </div>
                   <div class="header">
