@@ -65,13 +65,13 @@ layout: default
                     <dd>– <span style="color: #5D8AA8;">Exchange from 09/03/2018 to 09/16/2018</span>: at the rate of ₱/€0.07142857 (<span style="color: #5D8AA8;"><b>40% bonus</b></span>)</dd>
                     <dd>– <span style="color: #B8860B;">Cooling-OFF from 09/17/2018 to 09/23/2018</span>: at the rate of − ₱/€0.07246377 (<span style="color: #B8860B;"><b>38% bonus</b></span>)</dd>
                     <dd>– <span style="color: #5D8AA8;">Exchange from 09/24/2018 to 10/07/2018</span>: at the rate of ₱/€0.07692308 (<span style="color: #5D8AA8;"><b>30% bonus</b></span>)</dd>
-                    <dd>– <span style="color: #B8860B;">Cooling-OFF from 10/08/2018 to 10/14/2018</span>: at the rate of − ₱/e0.07751938 (<span style="color: #B8860B;"><b>29% bonus</b></span>)</dd>
-                    <dd>– <span style="color: #5D8AA8;">Exchange from 10/15/2018 to 10/28/2018</span>: at the rate of − ₱/e0.08333333 (<span style="color: #5D8AA8;"><b>20% bonus</b></span>)</dd>
-                    <dd>– <span style="color: #B8860B;">Cooling-OFF from 10/29/2018 to 11/04/2018</span>: at the rate of − ₱/e0.08403361 (<span style="color: #B8860B;"><b>19% bonus</b></span>)</dd>
-                    <dd>– <span style="color: #5D8AA8;">Exchange from 11/05/2018 to 11/18/2018</span>: at the rate of − ₱/e0.09090909 (<span style="color: #5D8AA8;"><b>10% bonus</b></span>)</dd>
-                    <dd>– <span style="color: #B8860B;">Cooling-OFF from 11/19/2018 to 11/25/2018</span>: at the rate of − ₱/e0.09174312 (<span style="color: #B8860B;"><b>9% bonus</b></span>)</dd>
-                    <dd>– <span style="color: #5D8AA8;">Exchange from 11/26/2018 to 12/09/2018</span>: at the rate of − ₱/e0.0952381 (<span style="color: #5D8AA8;"><b>5% bonus</b></span>)</dd>
-                    <dd>– <span style="color: #B8860B;">Cooling-OFF from 12/09/2018 to 12/16/2018</span>: at the rate of − ₱/e0.09615385 (<span style="color: #B8860B;"><b>4% bonus</b></span>)</dd>
+                    <dd>– <span style="color: #B8860B;">Cooling-OFF from 10/08/2018 to 10/14/2018</span>: at the rate of − ₱/€0.07751938 (<span style="color: #B8860B;"><b>29% bonus</b></span>)</dd>
+                    <dd>– <span style="color: #5D8AA8;">Exchange from 10/15/2018 to 10/28/2018</span>: at the rate of − ₱/€0.08333333 (<span style="color: #5D8AA8;"><b>20% bonus</b></span>)</dd>
+                    <dd>– <span style="color: #B8860B;">Cooling-OFF from 10/29/2018 to 11/04/2018</span>: at the rate of − ₱/€0.08403361 (<span style="color: #B8860B;"><b>19% bonus</b></span>)</dd>
+                    <dd>– <span style="color: #5D8AA8;">Exchange from 11/05/2018 to 11/18/2018</span>: at the rate of − ₱/€0.09090909 (<span style="color: #5D8AA8;"><b>10% bonus</b></span>)</dd>
+                    <dd>– <span style="color: #B8860B;">Cooling-OFF from 11/19/2018 to 11/25/2018</span>: at the rate of − ₱/€0.09174312 (<span style="color: #B8860B;"><b>9% bonus</b></span>)</dd>
+                    <dd>– <span style="color: #5D8AA8;">Exchange from 11/26/2018 to 12/09/2018</span>: at the rate of − ₱/€0.0952381 (<span style="color: #5D8AA8;"><b>5% bonus</b></span>)</dd>
+                    <dd>– <span style="color: #B8860B;">Cooling-OFF from 12/09/2018 to 12/16/2018</span>: at the rate of − ₱/€0.09615385 (<span style="color: #B8860B;"><b>4% bonus</b></span>)</dd>
                 </dl>
             </div>
         </div>
