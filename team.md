@@ -51,8 +51,6 @@
                     <h2>Advisors</h2>
                   </div>
                   <div class="row">
-                    <div class="col-sm">
-                    </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/gavrilo.jpg"> <br>
@@ -76,7 +74,25 @@
                         <a href="https://adriaticrypto.org/" target="blank"><i class="fas fa-link "></i></a>
                       </p>
                     </div>
-                    <div class="col-sm">
+                    <div class="col-sm neven">
+                      <p style="text-align: center;">
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/wazzy.jpg"> <br>
+                        <b>Wazzy</b><br> ADVISOR
+                      </p>
+                      <p style="text-align: center;">
+                        <a target="_blank" href="https://t.me/Wazzy"><i class="fab fa-telegram "></i></a>
+                        <a href="https://www.linkedin.com/in/warren-rogers-8721a069/" target="blank"><i class="fab fa-linkedin-in "></i></a>
+                      </p>
+                    </div>
+                    <div class="col-sm neven">
+                      <p style="text-align: center;">
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/binqiting.jpg"> <br>
+                        <b>Linbinqiting</b><br> ADVISOR
+                      </p>
+                      <p style="text-align: center;">
+                        <a target="_blank" href="https://t.me/linbinqiting"><i class="fab fa-telegram "></i></a>
+                        <a href="https://twitter.com/linbinqiting" target="blank"><i class="fab fa-twitter "></i></a>
+                      </p>
                     </div>
                   </div>
                   <div class="header">
@@ -114,16 +130,6 @@
                       <p style="text-align: center;">
                         <a target="_blank" href="https://bitcointalk.org/index.php"><i class="fab fa-bitcoin "></i></a>
                         <a target="_blank" href="https://t.me/Bitmyst"><i class="fab fa-telegram "></i></a>
-                      </p>
-                    </div>
-                    <div class="col-sm neven">
-                      <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/wazzy.jpg"> <br>
-                        <b>Wazzy</b><br>  COMMUNITY MANAGER AFRICA - ASIA
-                      </p>
-                      <p style="text-align: center;">
-                        <a target="_blank" href="https://t.me/Wazzy"><i class="fab fa-telegram "></i></a>
-                        <a href="https://www.linkedin.com/in/warren-rogers-8721a069/" target="blank"><i class="fab fa-linkedin-in "></i></a>
                       </p>
                     </div>
                     <div class="col-sm neven">
