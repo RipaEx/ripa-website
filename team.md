@@ -177,7 +177,7 @@
                     </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/toons.png"> <br>
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/toons.jpg"> <br>
                         <b>Toons</b><br> DEVELOPER - DELEGATE
                       </p>
                       <p style="text-align: center;">
