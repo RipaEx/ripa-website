@@ -132,15 +132,6 @@
                         <a target="_blank" href="https://t.me/Bitmyst"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
-                    <div class="col-sm neven">
-                      <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/freewilly.jpg"> <br>
-                        <b>Tom</b><br> Public &amp; Relations
-                      </p>
-                      <p style="text-align: center;">
-                        <a target="_blank" href="https://t.me/freewillynow"><i class="fab fa-telegram "></i></a>
-                      </p>
-                    </div>
                   </div>
                   <div class="header">
                     <br/>
