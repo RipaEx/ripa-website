@@ -42,6 +42,7 @@
     <style type="text/css"> #iubenda-cs-banner { bottom: 0px !important; left: 0px !important; position: fixed !important; width: 100% !important; z-index: 99999998 !important; background-color: white;} .iubenda-cs-content { display: block; margin: 0 auto; padding: 20px; width: auto; font-family: Helvetica,Arial,FreeSans,sans-serif; font-size: 14px; background: #fff; color: #000; border: 1px solid silver;} .iubenda-cs-rationale { max-width: 900px; position: relative; margin: 0 auto; } .iubenda-banner-content > p { font-family: Helvetica,Arial,FreeSans,sans-serif; line-height: 1.5; } .iubenda-cs-close-btn { margin:0; color: #000; text-decoration: none; font-size: 14px; position: absolute; top: 0; right: 0; border: none; } .iubenda-cs-cookie-policy-lnk { text-decoration: underline; color: #000; font-size: 14px; font-weight: 900; } </style>    
     <script type="text/javascript"> var _iub = _iub || []; _iub.csConfiguration = {"banner":{"slideDown":false,"applyStyles":false,"textColor":"#dadada","backgroundColor":"#5A5A5A"},"priorConsent":false,"lang":"en","siteId":1344906,"consentOnScroll":false,"cookiePolicyId":28003073}; </script>
     <script type="text/javascript" src="//cdn.iubenda.com/cookie_solution/safemode/iubenda_cs.js" charset="UTF-8" async></script>
+    <script type="text/javascript" src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
 
 </head>
 <body>
@@ -232,6 +233,10 @@
         &copy; 2018 RipaEx VAT 04927110264 - Treviso (TV) - Italy
     </span>
 </footer>
+
+<nav class="navbar navbar-expand-lg navbar-light fixed-bottom" role="priceTicker">
+    <coingecko-coin-price-marquee-widget currency="eur" coin-ids="bitcoin,eos,ethereum,litecoin,ripple,dogecoin,ark,lisk,bitshares,stellar" locale="en"></coingecko-coin-price-marquee-widget>
+</nav>
 
 <script type="text/javascript">
     $(function () {
