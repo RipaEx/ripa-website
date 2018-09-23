@@ -87,11 +87,20 @@
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/binqiting.jpg"> <br>
-                        <b>Linbinqiting</b><br> ADVISOR
+                        <b>Hui Li</b><br> ADVISOR
                       </p>
                       <p style="text-align: center;">
                         <a target="_blank" href="https://t.me/linbinqiting"><i class="fab fa-telegram "></i></a>
                         <a href="https://twitter.com/linbinqiting" target="blank"><i class="fab fa-twitter "></i></a>
+                      </p>
+                    </div>
+                    <div class="col-sm neven">
+                      <p style="text-align: center;">
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/tim.jpg"> <br>
+                        <b>Timothy</b><br> ADVISOR
+                      </p>
+                      <p style="text-align: center;">
+                        <a target="_blank" href="https://t.me/Timo3"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
                   </div>
