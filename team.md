@@ -77,7 +77,7 @@
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/wazzy.jpg"> <br>
-                        <b>Wazzy</b><br> ADVISOR
+                        <b>Warren Rogers</b><br> ADVISOR
                       </p>
                       <p style="text-align: center;">
                         <a target="_blank" href="https://t.me/Wazzy"><i class="fab fa-telegram "></i></a>
