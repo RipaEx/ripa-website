@@ -35,7 +35,7 @@
                     <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io/sign-up">
                         Buy XPX NOW
                     </a>
-                    <a class="btn-shadow btn-shadow-info mr-md-1" href="https://github.com/RipaEx/">
+                    <a class="btn-shadow btn-shadow-info mr-md-1" href="https://rubykube.io/">
                         Start your exchange
                     </a>
                 </div>

@@ -24,7 +24,7 @@
                         You can make all the customization you want on the source code as all the source base is released under the MIT license.
                     </p>
                     <p class="right">
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="/comingSoon">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://rubykube.io/">
                             Learn More
                         </a>
                     </p>
@@ -42,7 +42,7 @@
                         International AML/KYC standards are in place to secure compliance for your exchange in whichever country you want to install your instance.
                     </p>
                     <p class="right">
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="/comingSoon">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://rubykube.io/">
                             Learn More
                         </a>
                     </p>
@@ -63,7 +63,7 @@
                         * thank you to ACES-ARK technology
                     </p>
                     <p class="right">
-                        <a class="btn-sm btn-shadow btn-shadow-info" href="/comingSoon">
+                        <a class="btn-sm btn-shadow btn-shadow-info" href="https://rubykube.io/">
                             Learn More
                         </a>
                     </p>
@@ -232,7 +232,7 @@
             Ripa Exchange specializes in designing beautiful interfaces for content while balancing your application to be consistent as viewport increases.
         </p>
         <p>
-            <a class="btn-shadow btn-shadow-info mr-md-1" href="/comingSoon">
+            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://rubykube.io/">
                 Learn More
             </a>
         </p>
