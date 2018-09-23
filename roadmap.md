@@ -2,12 +2,12 @@
 <div id="roadmap" />
 
 
-<div class="index-features" data-scroll>
+<div class="spacial-features customFadeInUp" data-scroll>
     <section class="container">
         <div class="row">
             <div class="col-12">
                 <div class="header" style="text-align: center;">
-                    <h1>Roadmap</h1>
+                    <h3>Roadmap</h3>
                 </div>
                 <div class="container nspRoadmap">
                     <div class="row">

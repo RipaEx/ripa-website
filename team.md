@@ -1,13 +1,13 @@
 
 <div id="team" />
 
-<div class="spacial-features customFadeInUp" data-scroll style="margin: 80px auto 0; max-width: 1400px;">
+<div class="index-features" data-scroll style="margin: 80px auto 0; max-width: 1400px;">
     <section class="container">
         <div class="row">
             <div class="col-12">
                 <div class="container nspArt">
-                  <div class="header">
-                    <h2>Management</h2>
+                  <div class="header center">
+                    <h3>Management</h3>
                   </div>
                   <div class="row">
                     <div class="col-sm">
@@ -46,9 +46,9 @@
                     <div class="col-sm">
                     </div>
                   </div>
-                  <div class="header">
+                  <div class="header center">
                     <br/>
-                    <h2>Advisors</h2>
+                    <h3>Advisors</h3>
                   </div>
                   <div class="row">
                     <div class="col-sm neven">
@@ -104,9 +104,9 @@
                       </p>
                     </div>
                   </div>
-                  <div class="header">
+                  <div class="header center">
                     <br/>
-                    <h2>Public Relations</h2>
+                    <h3>Public Relations</h3>
                   </div>
                   <div class="row">
                     <div class="col-sm neven">
@@ -142,9 +142,9 @@
                       </p>
                     </div>
                   </div>
-                  <div class="header">
+                  <div class="header center">
                     <br/>
-                    <h2>Developer - Delegate</h2>
+                    <h3>Developer - Delegate</h3>
                   </div>
                   <div class="row">
                     <div class="col-sm neven">

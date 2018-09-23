@@ -1,21 +1,15 @@
----
-layout: default
-title: Investment Levels
-permalink: /investmentLevels
----
-
 <div id="investmentLevels" />
 
-<div class="spacial-features customFadeInUp" data-scroll style="margin: 80px auto 0; max-width: 1400px;">
+<div class="index-features" data-scroll style="margin: 80px auto 0; max-width: 1400px;">
   <section class="container">
     <div class="row">
-      <div class="col-12">
-        <div class="header">
-          <h2>RIPA TEC Investment Levels</h2>
+      <div class="col-12 center">
+        <header>
+          <h3 style="color: #D4AF37">RIPA TEC Investment Levels</h3>
           <p>
             Those are the investment levels you can reach exchaning in the RIPA TEC platform
           </p>
-        </div>
+        </header>
       </div>
     </div>
     <div class="row">
@@ -80,5 +74,6 @@ permalink: /investmentLevels
           </div>
         </div>
       </div>
+    </div>
   </section>
 </div>

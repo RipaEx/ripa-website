@@ -306,19 +306,3 @@
         </div>
     </div>
 </div>
-
-<div class="row">
-    <div class="col-12">
-        <div class="cta text-center">
-            <h1 class="cta-title title">
-                Join the Crypto Revolution today.
-            </h1>
-            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io/sign-up">
-                Buy XPX NOW
-            </a>
-            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://github.com/RipaEx/">
-                Start your exchange
-            </a>
-        </div>
-    </div>
-</div>

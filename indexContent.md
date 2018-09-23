@@ -16,6 +16,8 @@
 
 {% include_relative exchange.md %}
 
+{% include_relative investmentLevelContent.md %}
+
 {% include_relative roadmap.md %}
 
 {% include_relative team.md %}
