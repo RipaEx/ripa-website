@@ -128,7 +128,7 @@
                       <p style="text-align: center;">
                         <a target="_blank" href="https://bitcointalk.org/index.php?action=profile;u=993136"><i class="fab fa-bitcoin "></i></a>
                         <a target="_blank" href="https://t.me/OnlyTrifiz"><i class="fab fa-telegram "></i></a>
-                        <a href="https://www.linkedin.com/in/simone-trifiletti/" target="blank"><i class="fab fa-linkedin-in "></i></a>
+                        <a href="https://www.linkedin.com/in/simone-trifiletti/" target="blank"><i class="fab fa-linkedin-in"></i></a>
                       </p>
                     </div>
                     <div class="col-sm neven">
@@ -139,6 +139,17 @@
                       <p style="text-align: center;">
                         <a target="_blank" href="https://bitcointalk.org/index.php"><i class="fab fa-bitcoin "></i></a>
                         <a target="_blank" href="https://t.me/Bitmyst"><i class="fab fa-telegram "></i></a>
+                      </p>
+                    </div>
+                    <div class="col-sm neven">
+                      <p style="text-align: center;">
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/deepanshu.jpg"> <br>
+                        <b>Deepanshu</b><br> ICO Strategist
+                      </p>
+                      <p style="text-align: center;">
+                        <a target="_blank" href="https://www.linkedin.com/in/deepanshu-bhatt/"><i class="fab fa-linkedin-in"></i></a>
+                        <a target="_blank" href="https://icobench.com/u/deepanshu-bhatt"><i class="fab fa-bitcoin "></i></a>
+                        <a target="_blank" href="https://t.me/Cryptoexpert03"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
                   </div>
