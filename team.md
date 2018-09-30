@@ -201,7 +201,7 @@
                         <b>BitSnapp</b><br> DELEGATE
                       </p>
                       <p style="text-align: center;">
-                        <a target="_blank" href="https://t.me/giamme1"><i class="fab fa-telegram "></i></a>
+                        <a target="_blank" href="https://t.me/lriccardoDev"><i class="fab fa-telegram "></i></a>
                         <a href="https://bitsnapp.com/" target="blank"><i class="fas fa-link "></i></a>
                       </p>
                     </div>
