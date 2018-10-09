@@ -152,6 +152,16 @@
                         <a target="_blank" href="https://t.me/Cryptoexpert03"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
+                    <div class="col-sm neven">
+                      <p style="text-align: center;">
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/deepak.jpg"> <br>
+                        <b>Deepak Yadav</b><br> Public & Relations
+                      </p>
+                      <p style="text-align: center;">
+                        <a target="_blank" href="https://www.linkedin.com/in/deepakyadav0/"><i class="fab fa-linkedin-in"></i></a>
+                        <a target="_blank" href="https://t.me/deepakYadav1"><i class="fab fa-telegram "></i></a>
+                      </p>
+                    </div>
                   </div>
                   <div class="header center">
                     <br/>
