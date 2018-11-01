@@ -7,7 +7,7 @@
             Ripa Exchange is an hybrid-decentralized exchange with a strong focus on lowering the entry level for opening new exchanges and giving crypto traders safe and secure trading partners to operate on a daily basis.
         </p>
         <div class="actions customFadeInUp">
-            <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io/sign-up">
+            <a class="btn-shadow btn-shadow-info mr-md-1" href="/#exchanges">
                 Join RIPA Token Sale
             </a>
         </div>
@@ -16,7 +16,7 @@
 
 {% include_relative exchange.md %}
 
-{% include_relative investmentLevelContent.md %}
+{% include_relative exchangesContent.md %}
 
 {% include_relative roadmap.md %}
 
@@ -32,7 +32,7 @@
                     <h1 class="cta-title title">
                         Join the Crypto Revolution today.
                     </h1>
-                    <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io/sign-up">
+                    <a class="btn-shadow btn-shadow-info mr-md-1" href="/#exchanges">
                         Buy XPX NOW
                     </a>
                     <a class="btn-shadow btn-shadow-info mr-md-1" href="https://rubykube.io/">

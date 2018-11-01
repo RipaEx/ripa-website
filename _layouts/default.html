@@ -1,10 +1,11 @@
 <!doctype html>
 <html class="no-js" lang="">
+
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123332569-1"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
@@ -32,230 +33,392 @@
 
     <!-- javascript -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+        crossorigin="anonymous"></script>
     <script src="/dist/theme.min.js"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl"
+        crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
-    <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+    <script type="text/javascript">
+        (function (w, d) {
+            var loader = function () {
+                var s = d.createElement("script"),
+                    tag = d.getElementsByTagName("script")[0];
+                s.src = "https://cdn.iubenda.com/iubenda.js";
+                tag.parentNode.insertBefore(s, tag);
+            };
+            if (w.addEventListener) {
+                w.addEventListener("load", loader, false);
+            } else if (w.attachEvent) {
+                w.attachEvent("onload", loader);
+            } else {
+                w.onload = loader;
+            }
+        })(window, document);
+    </script>
 
-    <style type="text/css"> #iubenda-cs-banner { bottom: 0px !important; left: 0px !important; position: fixed !important; width: 100% !important; z-index: 99999998 !important; background-color: white;} .iubenda-cs-content { display: block; margin: 0 auto; padding: 20px; width: auto; font-family: Helvetica,Arial,FreeSans,sans-serif; font-size: 14px; background: #fff; color: #000; border: 1px solid silver;} .iubenda-cs-rationale { max-width: 900px; position: relative; margin: 0 auto; } .iubenda-banner-content > p { font-family: Helvetica,Arial,FreeSans,sans-serif; line-height: 1.5; } .iubenda-cs-close-btn { margin:0; color: #000; text-decoration: none; font-size: 14px; position: absolute; top: 0; right: 0; border: none; } .iubenda-cs-cookie-policy-lnk { text-decoration: underline; color: #000; font-size: 14px; font-weight: 900; } </style>    
-    <script type="text/javascript"> var _iub = _iub || []; _iub.csConfiguration = {"banner":{"slideDown":false,"applyStyles":false,"textColor":"#dadada","backgroundColor":"#5A5A5A"},"priorConsent":false,"lang":"en","siteId":1344906,"consentOnScroll":false,"cookiePolicyId":28003073}; </script>
+    <style type="text/css">
+        #iubenda-cs-banner {
+            bottom: 0px !important;
+            left: 0px !important;
+            position: fixed !important;
+            width: 100% !important;
+            z-index: 99999998 !important;
+            background-color: white;
+        }
+
+        .iubenda-cs-content {
+            display: block;
+            margin: 0 auto;
+            padding: 20px;
+            width: auto;
+            font-family: Helvetica, Arial, FreeSans, sans-serif;
+            font-size: 14px;
+            background: #fff;
+            color: #000;
+            border: 1px solid silver;
+        }
+
+        .iubenda-cs-rationale {
+            max-width: 900px;
+            position: relative;
+            margin: 0 auto;
+        }
+
+        .iubenda-banner-content>p {
+            font-family: Helvetica, Arial, FreeSans, sans-serif;
+            line-height: 1.5;
+        }
+
+        .iubenda-cs-close-btn {
+            margin: 0;
+            color: #000;
+            text-decoration: none;
+            font-size: 14px;
+            position: absolute;
+            top: 0;
+            right: 0;
+            border: none;
+        }
+
+        .iubenda-cs-cookie-policy-lnk {
+            text-decoration: underline;
+            color: #000;
+            font-size: 14px;
+            font-weight: 900;
+        }
+    </style>
+    <script type="text/javascript">
+        var _iub = _iub || [];
+        _iub.csConfiguration = {
+            "banner": {
+                "slideDown": false,
+                "applyStyles": false,
+                "textColor": "#dadada",
+                "backgroundColor": "#5A5A5A"
+            },
+            "priorConsent": false,
+            "lang": "en",
+            "siteId": 1344906,
+            "consentOnScroll": false,
+            "cookiePolicyId": 28003073
+        };
+    </script>
     <script type="text/javascript" src="//cdn.iubenda.com/cookie_solution/safemode/iubenda_cs.js" charset="UTF-8" async></script>
     <script type="text/javascript" src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
 
 </head>
+
 <body>
-<!--[if lt IE 9]>
+    <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
-<!--[if lt IE 8]>
+    <!--[if lt IE 8]>
 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
 
-<nav class="navbar navbar-expand-lg navbar-light fixed-top" role="navigation">
-    <div class="container no-override">
-        <a class="navbar-brand" href="/">
-            <img src="/assets/images/RIPA_light_mini_transparent.png" class="d-none d-lg-inline mr-2" style="width: 70px"/>
-            <!--<img src="assets/images/ark-block-logo.png" class="d-none d-lg-inline mr-2" style="width: 40px"/>-->
-            Ripa Exchange
-        </a>
-        <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" role="navigation">
+        <div class="container no-override">
+            <a class="navbar-brand" href="/">
+                <img src="/assets/images/RIPA_light_mini_transparent.png" class="d-none d-lg-inline mr-2" style="width: 70px" />
+                <!--<img src="assets/images/ark-block-logo.png" class="d-none d-lg-inline mr-2" style="width: 40px"/>-->
+                Ripa Exchange
+            </a>
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
-        <div class="collapse navbar-collapse justify-content-end" id="navbar-collapse">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a href="/#exchange" class="nav-link">
-                        The Exchange
-                    </a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
-                        Resources
-                        <i class="ion-chevron-down"></i>
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-light" role="menu">
-                        <a class="dropdown-item" href="/#investmentLevels">Investment Levels</a>
-                        <a class="dropdown-item" href="/#roadmap">Roadmap</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="./assets/RipaEx_WP_EN.pdf">Whitepaper</a>
-                        <a class="dropdown-item" href="./assets/RipaEx_ES_EN.pdf">Executive Summary</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="/#team">Team</a>
-                        <a class="dropdown-item" href="/#faq">FAQ</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
-                        Pages
-                        <i class="ion-chevron-down"></i>
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-light" role="menu">
-                        <a class="dropdown-item" target="_blank" href="https://explorer.ripaex.io">Explorer</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" target="_blank" href="https://snapshot.ripaex.io">Snapshot</a>
-                        <a class="dropdown-item" target="_blank" href="https://github.com/RipaEx/ripa-commander/blob/master/README.md">Commander</a>
-                        <a class="dropdown-item" target="_blank" href="https://vote.ripaex.io">Vote</a>
-                        <a class="dropdown-item" target="_blank" href="https://test.ripaex.io">Swagger</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="https://steemit.com/@ripaex">Blog</a>
-                        <a class="dropdown-item" href="https://forum.ripaex.io">Forum</a>
-                        <a class="dropdown-item" href="/bonus">RIPA TEC Bonuses</a>
-                        <a class="dropdown-item" href="/mediaKit">Media Kit</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
-                        Wallets
-                        <i class="ion-chevron-down"></i>
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-light" role="menu">
-                        <a class="dropdown-item" href="https://github.com/RipaEx/ripa-desktop/releases/latest">Desktop</a>
-                        <a class="dropdown-item" href="https://play.google.com/store/apps/details?id=io.ripa.wallet.mobile">Mobile</a>
-                        <a class="dropdown-item" href="https://wallet.ripaex.io">Web Wallet</a>
-                        <a class="dropdown-item" href="/comingSoon/">Paper Wallet</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
-                        Contact Us
-                        <i class="ion-chevron-down"></i>
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-light" role="menu">
-                        <a class="dropdown-item" href="/contact"><i class="fas fa-envelope"></i> E-Mail</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" target="_blank" href="https://t.me/ripaex"><i class="fab fa-telegram"></i> Telegram</a>
-                        <a class="dropdown-item" target="_blank" href="https://join.slack.com/t/ripaex/shared_invite/enQtMzM4NzUwNjU4OTQ0LTY3MDJmMTdhYTNlZjJlNGUxNzM1YjUwYjgyYjZlMDJmOTg3NTIzNThmNTYyMGQ3ODBkOTRmYzk3Y2Y4MzBkOTY"><i class="fab fa-slack"></i> Slack</a>
-                        <a class="dropdown-item" target="_blank" href="https://bitcointalk.org/index.php?topic=3759172"><i class="fab fa-bitcoin"></i> Bitcointalk</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" target="_blank" href="https://twitter.com/ripaex"><i class="fab fa-twitter"></i> Twitter</a>
-                        <a class="dropdown-item" target="_blank" href="https://www.facebook.com/ripaex"><i class="fab fa-facebook"></i> Facebook</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" target="_blank" href="https://steemit.com/@ripaex"><i class="fas fa-th"></i> Steemit</a>
-                        <a class="dropdown-item" target="_blank" href="https://www.reddit.com/r/RipaEx/"><i class="fab fa-reddit"></i> Reddit</a>
-                        <a class="dropdown-item" target="_blank" href="https://medium.com/ripaexchange"><i class="fab fa-medium"></i> Medium</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" target="_blank" href="https://github.com/RipaEx/"><i class="fab fa-github"></i> GitHub</a>
-                        <a class="dropdown-item" target="_blank" href="https://gitter.im/RipaEx/RipaEx"><i class="fab fa-gitter"></i> Gitter</a>
-                        <a class="dropdown-item" target="_blank" href="https://discord.gg/W847yAP"><i class="fab fa-discord"></i> Discord</a>
-        
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link nav-link--rounded" href="https://tec.ripaex.io/sign-up">BUY XPX NOW</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
+            <div class="collapse navbar-collapse justify-content-end" id="navbar-collapse">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a href="/#exchange" class="nav-link">
+                            The Exchange
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+                            Resources
+                            <i class="ion-chevron-down"></i>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-light" role="menu">
+                            <a class="dropdown-item" href="/#exchanges">Exchanges</a>
+                            <a class="dropdown-item" href="/#roadmap">Roadmap</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="./assets/RipaEx_WP_EN.pdf">Whitepaper</a>
+                            <a class="dropdown-item" href="./assets/RipaEx_ES_EN.pdf">Executive Summary</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/#team">Team</a>
+                            <a class="dropdown-item" href="/#faq">FAQ</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+                            Pages
+                            <i class="ion-chevron-down"></i>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-light" role="menu">
+                            <a class="dropdown-item" target="_blank" href="https://explorer.ripaex.io">Explorer</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" target="_blank" href="https://snapshot.ripaex.io">Snapshot</a>
+                            <a class="dropdown-item" target="_blank" href="https://github.com/RipaEx/ripa-commander/blob/master/README.md">Commander</a>
+                            <a class="dropdown-item" target="_blank" href="https://vote.ripaex.io">Vote</a>
+                            <a class="dropdown-item" target="_blank" href="https://test.ripaex.io">Swagger</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="https://steemit.com/@ripaex">Blog</a>
+                            <a class="dropdown-item" href="https://forum.ripaex.io">Forum</a>
+                            <a class="dropdown-item" href="/bonus">RIPA TEC Bonuses</a>
+                            <a class="dropdown-item" href="/mediaKit">Media Kit</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+                            Wallets
+                            <i class="ion-chevron-down"></i>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-light" role="menu">
+                            <a class="dropdown-item" href="https://github.com/RipaEx/ripa-desktop/releases/latest">Desktop</a>
+                            <a class="dropdown-item" href="https://play.google.com/store/apps/details?id=io.ripa.wallet.mobile">Mobile</a>
+                            <a class="dropdown-item" href="https://wallet.ripaex.io">Web Wallet</a>
+                            <a class="dropdown-item" href="/comingSoon/">Paper Wallet</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+                            Contact Us
+                            <i class="ion-chevron-down"></i>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-light" role="menu">
+                            <a class="dropdown-item" href="/contact"><i class="fas fa-envelope"></i> E-Mail</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" target="_blank" href="https://t.me/ripaex"><i class="fab fa-telegram"></i>
+                                Telegram</a>
+                            <a class="dropdown-item" target="_blank" href="https://join.slack.com/t/ripaex/shared_invite/enQtMzM4NzUwNjU4OTQ0LTY3MDJmMTdhYTNlZjJlNGUxNzM1YjUwYjgyYjZlMDJmOTg3NTIzNThmNTYyMGQ3ODBkOTRmYzk3Y2Y4MzBkOTY"><i
+                                    class="fab fa-slack"></i> Slack</a>
+                            <a class="dropdown-item" target="_blank" href="https://bitcointalk.org/index.php?topic=3759172"><i
+                                    class="fab fa-bitcoin"></i> Bitcointalk</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" target="_blank" href="https://twitter.com/ripaex"><i class="fab fa-twitter"></i>
+                                Twitter</a>
+                            <a class="dropdown-item" target="_blank" href="https://www.facebook.com/ripaex"><i class="fab fa-facebook"></i>
+                                Facebook</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" target="_blank" href="https://steemit.com/@ripaex"><i class="fas fa-th"></i>
+                                Steemit</a>
+                            <a class="dropdown-item" target="_blank" href="https://www.reddit.com/r/RipaEx/"><i class="fab fa-reddit"></i>
+                                Reddit</a>
+                            <a class="dropdown-item" target="_blank" href="https://medium.com/ripaexchange"><i class="fab fa-medium"></i>
+                                Medium</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" target="_blank" href="https://github.com/RipaEx/"><i class="fab fa-github"></i>
+                                GitHub</a>
+                            <a class="dropdown-item" target="_blank" href="https://gitter.im/RipaEx/RipaEx"><i class="fab fa-gitter"></i>
+                                Gitter</a>
+                            <a class="dropdown-item" target="_blank" href="https://discord.gg/W847yAP"><i class="fab fa-discord"></i>
+                                Discord</a>
 
-<div class="content">
-    {{ content }}
-</div>
-
-<footer class="footer-big-menu" id="footer">
-    <div class="container">
-        <div class="row menu">
-            <div class="col-md-3 col-lg-2">
-                <h3 class="menu-title title">About</h3>
-                <a class="menu-link" href="/#exchange">Ripa Exchange</a>
-                <a class="menu-link" href="/#investmentLevels">Investment Levels</a>
-                <a class="menu-link" href="/#roadmap">Roadmap</a>
-                <a class="menu-link" href="./assets/RipaEx_WP_EN.pdf">Whitepaper</a>
-                <a class="menu-link" href="./assets/RipaEx_ES_EN.pdf">Executive Summary</a>
-                <a class="menu-link" href="/#team">Team</a>
-             </div>
-            
-            <div class="col-md-3 col-lg-2">
-                <h3 class="menu-title title">Resources</h3>
-                <a class="menu-link" target="_blank" href="https://explorer.ripaex.io">Explorer</a>
-                <a class="menu-link" href="/#faq">FAQ</a>
-                <a class="menu-link" href="https://steemit.com/@ripaex">Blog</a>
-                <a class="menu-link" href="https://forum.ripaex.io">Forum</a>
-                <a class="menu-link" href="/mediaKit">Media Kit</a>
-            </div>
-
-            <div class="col-md-3 col-lg-2">
-                <h3 class="menu-title title">Wallets</h3>
-                <a class="menu-link" href="https://github.com/RipaEx/ripa-desktop/releases">Desktop</a>
-                <a class="menu-link" href="https://play.google.com/store/apps/details?id=io.ripa.wallet.mobile">Mobile</a>
-                <a class="menu-link" href="https://wallet.ripaex.io">Web Wallet</a>
-            </div>
-
-            <div class="col-md-3 col-lg-2">
-                <h3 class="menu-title title">Delegates</h3>
-                <a class="menu-link" target="_blank" href="https://github.com/RipaEx/ripa-commander/blob/master/README.md">Commander</a>                
-                <a class="menu-link" target="_blank" href="https://vote.ripaex.io">Vote</a>
-                <a class="menu-link" target="_blank" href="https://snapshot.ripaex.io">Snapshot</a>
-                <a class="menu-link" target="_blank" href="https://test.ripaex.io">Swagger</a>
-
-
-            </div>
-
-            <div class="col-md-3 col-lg-2">
-                <h3 class="menu-title title">Development</h3>
-                <a class="menu-link" href="https://github.com/RipaEx/">GitHub</a>
-            </div>
-            
-            <div class="col-md-3 col-lg-2 text-center">
-                <p>
-                    <a class="buy-xpx-button" href="https://tec.ripaex.io/sign-up">BUY XPX NOW</a>
-                </p>
-                <a class="social-link" href="/contact/">
-                    <i class="fas fa-envelope"></i>
-                </a>
-                <a class="social-link" target="_blank" href="https://t.me/ripaex">
-                    <i class="fab fa-telegram"></i>
-                </a>
-                <a class="social-link" target="_blank" href="https://join.slack.com/t/ripaex/shared_invite/enQtMzM4NzUwNjU4OTQ0LTY3MDJmMTdhYTNlZjJlNGUxNzM1YjUwYjgyYjZlMDJmOTg3NTIzNThmNTYyMGQ3ODBkOTRmYzk3Y2Y4MzBkOTY">
-                    <i class="fab fa-slack"></i>
-                </a>
-                <a class="social-link" target="_blank" href="https://www.facebook.com/ripaex">
-                    <i class="fab fa-facebook"></i>
-                </a>
-                <a class="social-link" target="_blank" href="https://twitter.com/ripaex">
-                    <i class="fab fa-twitter"></i>
-                </a>
-                <a class="social-link" target="_blank" href="https://gitter.im/RipaEx/RipaEx">
-                    <i class="fab fa-gitter"></i>
-                </a>
-                <a class="social-link" target="_blank" href="https://discord.gg/W847yAP">
-                    <i class="fab fa-discord"></i>
-                </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link nav-link--rounded" href="/#exchanges">BUY XPX NOW</a>
+                    </li>
+                </ul>
             </div>
         </div>
+    </nav>
+
+    <div class="content">
+        {{ content }}
     </div>
-    <span class="bottom">
-        <a class="menu-link" href="./assets/RIPAEX-TOS.pdf">Terms of Service</a> 
-        -
-        <a class="menu-link" href="https://www.iubenda.com/privacy-policy/28003073" class="iubenda-white iubenda-embed " title="Privacy Policy">Privacy Policy</a>
-        <br>
-        &copy; 2018 RipaEx VAT 04927110264 - Treviso (TV) - Italy
-    </span>
-</footer>
+
+    <footer class="footer-big-menu" id="footer">
+        <div class="container nspArt">
+            <div class="row">
+                <div class="col-12 center">
+                    <header>
+                        <h5>Exchanges</h5>
+                    </header>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm nevenFooter">
+                    <a href="https://www.graviex.net/markets/xpxbtc" target="_blank">
+                        <img alt="Graviex" title="Graviex" class="nspImageExchangesFooter" src="images/listingServices/graviex_new.png" /></a>
+                </div>
+                <div class="col-sm nevenFooter">
+                    <a href="https://www.altilly.com/market/XPX_BTC" target="_blank">
+                        <img alt="Altilly" title="Altilly" class="nspImageExchangesFooter" src="images/listingServices/altilly-sm.png" /></a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 center">
+                    <header>
+                        <h5>Collaboration / Partnerships / Media</h5>
+                    </header>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm nevenFooter">
+                    <a href="https://www.coingecko.com/en/coins/ripaex" target="_blank">
+                        <img alt="CoinGecko" title="CoinGecko" class="nspImageExchangesFooter" src="images/listingServices/CoinGecko.png" />
+                    </a>
+                </div>
+                <div class="col-sm nevenFooter">
+                    <a href="https://coincodex.com/crypto/ripaex/" target="_blank">
+                        <img alt="CoinCodex" title="CoinCodex" class="nspImageExchangesFooter" src="images/listingServices/coincodex-light.png" />
+                    </a>
+                </div>
+                <div class="col-sm nevenFooter">
+                    <a href="https://icobench.com/ico/ripaex" target="_blank" rel="nofollow" title="RipaEx on ICObench">
+                        <img src="https://icobench.com/rated/ripaex?shape=horizontal&size=s" class="nspImageExchangesFooter"
+                            alt="RipaEx ICO rating" />
+                    </a>
+                </div>
+                <div class="col-sm nevenFooter">
+                    <a href="https://icomarks.com/ico/ripaex" target="_blank" rel="nofollow" title="RipaEx">
+                        <img src="https://icomarks.com/widget/r/ripaex/horizontal.svg" class="nspImageExchangesFooter"
+                            alt="RipaEx ICO rating" /></a>
+                </div>
+                <div class="col-sm nevenFooter">
+                    <a href="https://cryptototem.com/ripaex-ico/" target="_blank" title="RipaEx rating on CryptoTotem">
+                        <img src="https://cryptototem.com/widgets/imggen.php?w=160&h=50&format=0&color=1&ico_id=17880"
+                            class="nspImageExchangesFooter" alt="RipaEx ICO rating">
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm nevenFooter">
+                    <a href="https://icoholder.com/en/ripaex-25628" target="_blank">
+                        <img alt="ICOHolder" title="ICOHolder" class="nspImageExchangesFooter" src="https://icoholder.com/en/small-black-listed/25628.widget.svg" />
+                    </a>
+                </div>
+                <div class="col-sm nevenFooter">
+                    <a href="https://icorating.com/ico/ripaex/" target="_blank" rel="nofollow" title="RipaEx (XPX)">
+                        <img src="https://icorating.com/widget/ripaex/?type=ICORating&shape=Horizontal&color=Black"
+                            class="nspImageExchangesFooter" alt="RipaEx (XPX)">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row menu">
+                <div class="col-md-3 col-lg-2">
+                    <h3 class="menu-title title">About</h3>
+                    <a class="menu-link" href="/#exchange">Ripa Exchange</a>
+                    <a class="menu-link" href="/#exchanges">Exchanges</a>
+                    <a class="menu-link" href="/#roadmap">Roadmap</a>
+                    <a class="menu-link" href="./assets/RipaEx_WP_EN.pdf">Whitepaper</a>
+                    <a class="menu-link" href="./assets/RipaEx_ES_EN.pdf">Executive Summary</a>
+                    <a class="menu-link" href="/#team">Team</a>
+                </div>
+
+                <div class="col-md-3 col-lg-2">
+                    <h3 class="menu-title title">Resources</h3>
+                    <a class="menu-link" target="_blank" href="https://explorer.ripaex.io">Explorer</a>
+                    <a class="menu-link" href="/#faq">FAQ</a>
+                    <a class="menu-link" href="https://steemit.com/@ripaex">Blog</a>
+                    <a class="menu-link" href="https://forum.ripaex.io">Forum</a>
+                    <a class="menu-link" href="/mediaKit">Media Kit</a>
+                </div>
+
+                <div class="col-md-3 col-lg-2">
+                    <h3 class="menu-title title">Wallets</h3>
+                    <a class="menu-link" href="https://github.com/RipaEx/ripa-desktop/releases">Desktop</a>
+                    <a class="menu-link" href="https://play.google.com/store/apps/details?id=io.ripa.wallet.mobile">Mobile</a>
+                    <a class="menu-link" href="https://wallet.ripaex.io">Web Wallet</a>
+                </div>
+
+                <div class="col-md-3 col-lg-2">
+                    <h3 class="menu-title title">Delegates</h3>
+                    <a class="menu-link" target="_blank" href="https://github.com/RipaEx/ripa-commander/blob/master/README.md">Commander</a>
+                    <a class="menu-link" target="_blank" href="https://vote.ripaex.io">Vote</a>
+                    <a class="menu-link" target="_blank" href="https://snapshot.ripaex.io">Snapshot</a>
+                    <a class="menu-link" target="_blank" href="https://test.ripaex.io">Swagger</a>
 
 
-<nav class="navbar navbar-expand-lg navbar-light fixed-bottom">
-    <coingecko-coin-price-marquee-widget currency="eur" coin-ids="bitcoin,eos,ethereum,litecoin,ripple,dogecoin,ark,lisk,bitshares,stellar,bitcoin-cash,steem,rise,shift,monero,dash,pivx,neo" locale="en"></coingecko-coin-price-marquee-widget>
-</nav>
+                </div>
 
-<script type="text/javascript">
-    $(function () {
-        var trigger = new ScrollTrigger({
-            toggle: {
-                visible: 'customFadeInUp'
-            },
-            offset: {
-                y: 150
-            },
-            once: true
+                <div class="col-md-3 col-lg-2">
+                    <h3 class="menu-title title">Development</h3>
+                    <a class="menu-link" href="https://github.com/RipaEx/">GitHub</a>
+                </div>
+
+                <div class="col-md-3 col-lg-2 text-center">
+                    <a class="social-link" href="/contact/">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <a class="social-link" target="_blank" href="https://t.me/ripaex">
+                        <i class="fab fa-telegram"></i>
+                    </a>
+                    <a class="social-link" target="_blank" href="https://join.slack.com/t/ripaex/shared_invite/enQtMzM4NzUwNjU4OTQ0LTY3MDJmMTdhYTNlZjJlNGUxNzM1YjUwYjgyYjZlMDJmOTg3NTIzNThmNTYyMGQ3ODBkOTRmYzk3Y2Y4MzBkOTY">
+                        <i class="fab fa-slack"></i>
+                    </a>
+                    <a class="social-link" target="_blank" href="https://www.facebook.com/ripaex">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    <a class="social-link" target="_blank" href="https://twitter.com/ripaex">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a class="social-link" target="_blank" href="https://gitter.im/RipaEx/RipaEx">
+                        <i class="fab fa-gitter"></i>
+                    </a>
+                    <a class="social-link" target="_blank" href="https://discord.gg/W847yAP">
+                        <i class="fab fa-discord"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <span class="bottom">
+            <a class="menu-link" href="./assets/RIPAEX-TOS.pdf">Terms of Service</a>
+            -
+            <a class="menu-link" href="https://www.iubenda.com/privacy-policy/28003073" class="iubenda-white iubenda-embed "
+                title="Privacy Policy">Privacy Policy</a>
+            <br>
+            &copy; 2018 RipaEx VAT 04927110264 - Treviso (TV) - Italy
+        </span>
+    </footer>
+
+
+    <nav class="navbar navbar-expand-lg navbar-light fixed-bottom">
+        <coingecko-coin-price-marquee-widget currency="eur" coin-ids="bitcoin,eos,ethereum,litecoin,ripple,dogecoin,ark,lisk,bitshares,stellar,bitcoin-cash,steem,rise,shift,monero,dash,pivx,neo"
+            locale="en"></coingecko-coin-price-marquee-widget>
+    </nav>
+
+    <script type="text/javascript">
+        $(function () {
+            var trigger = new ScrollTrigger({
+                toggle: {
+                    visible: 'customFadeInUp'
+                },
+                offset: {
+                    y: 150
+                },
+                once: true
+            });
         });
-    });
-</script>
+    </script>
 
 </body>
-</html>
 
+</html>
