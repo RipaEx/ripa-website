@@ -22,12 +22,15 @@
         </div>
       </div>
     </div>
-    <!-- div class="row">
+    <div class="row">
       <div class="col-12 center">
         <header>
-          <p>Price services</p>
+          <p>XPX/EUR Exchange Rate Chart</p>
         </header>
       </div>
-    </div -->
+      <div class="col-12 center">
+          <coingecko-coin-compare-chart-widget  coin-ids="ripaex" currency="eur" locale="en"></coingecko-coin-compare-chart-widget>
+      </div>
+    </div>
   </section>
 </div>
