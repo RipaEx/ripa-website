@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thank You for your enquiry
-permalink: /contact/thankYou
+permalink: /contact/thankYou/
 ---
 
 <div class="spacial-features customFadeInUp" data-scroll="">
