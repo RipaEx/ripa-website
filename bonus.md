@@ -1,5 +1,7 @@
 ---
 layout: default
+title: RIPA TEC Bonuses
+permalink: /bonus/
 ---
 
 <div id="bonus" />

@@ -1,5 +1,7 @@
 ---
 layout: default
+title: RipaEx MediaKit
+permalink: /mediaKit/
 ---
 
 <div id="mediaKit" />
