@@ -141,8 +141,6 @@
                         <a target="_blank" href="https://t.me/Bitmyst"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
-                  </div>
-                  <div class="row">
                     <div class="col-sm neven">
                       <p style="text-align: center;">
                         <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/sophia.jpg"> <br>
@@ -151,17 +149,6 @@
                       <p style="text-align: center;">
                         <a target="_blank" href="https://www.linkedin.com/in/alex-geller-40547a160/"><i class="fab fa-linkedin-in"></i></a>
                         <a target="_blank" href="https://t.me/sonia_1996"><i class="fab fa-telegram "></i></a>
-                      </p>
-                    </div>
-                    <div class="col-sm neven">
-                      <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/deepanshu.jpg"> <br>
-                        <b>Deepanshu</b><br> ICO Strategist
-                      </p>
-                      <p style="text-align: center;">
-                        <a target="_blank" href="https://www.linkedin.com/in/deepanshu-bhatt/"><i class="fab fa-linkedin-in"></i></a>
-                        <a target="_blank" href="https://icobench.com/u/deepanshu-bhatt"><i class="fab fa-bitcoin "></i></a>
-                        <a target="_blank" href="https://t.me/Cryptoexpert03"><i class="fab fa-telegram "></i></a>
                       </p>
                     </div>
                     <div class="col-sm neven">
