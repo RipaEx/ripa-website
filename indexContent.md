@@ -8,7 +8,7 @@
         </p>
         <div class="actions customFadeInUp">
             <a class="btn-shadow btn-shadow-info mr-md-1" href="/#exchanges">
-                Join RIPA Token Sale
+                Exchange XPX now
             </a>
         </div>
     </div>
