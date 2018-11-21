@@ -1,0 +1,52 @@
+# ----- RipaEx Stellar Anchor <ripaex.io> -----
+
+# We only support the 'name' federation type.
+#FEDERATION_SERVER="https://api.ripaex.io/federation"
+ACCOUNTS=["GALTIA73LATASBGO63SG3EK7OFH5FT4P7ODI2HRNNFI4ZVWMMD5KQH2W, GBSIQARNKWZE4N52VV5ESNVXBCTLJZJRWKVGDHOX3D7G3ZRB7LWEHIN3, GCIAWJCOYQEB64TC5JWB5YXCEPFPL6C4MEV425V5GPARPO2OMPGYDIIU"]
+
+[DOCUMENTATION]
+ORG_NAME="Ripa Exchange di Giovanni Silvestri"
+ORG_DBA="RipaEx"
+ORG_URL="https://ripaex.io"
+ORG_LOGO="https://ripaex.io/images/mediaKit/logos/RIPA_light_mini_transparent.png"
+ORG_DESCRIPTION="RipaEx is a financial services platform native to distributed ledger technology."
+ORG_PHYSICAL_ADDRESS="Via Simone da Montona 10, Treviso (TV), Italy"
+ORG_PHONE_NUMBER="+39 340 2128138"
+ORG_TWITTER="ripaex"
+ORG_GITHUB="ripaex"
+ORG_OFFICIAL_EMAIL="info@ripaex.io"
+ORG_LICENSING_AUTHORITY="Financial Markets Authority Italy"
+ORG_LICENSE_TYPE="License Requested: Operating a money or value transfer service, Issuing and managing means of payment"
+ORG_LICENSE_NUMBER="VAT 04927110264"
+
+[[PRINCIPALS]]
+name="Giovanni Silvestri"
+email="giovanni.silvestri@ripaex.io"
+twitter=""
+github="gsilvestri"
+id_photo_hash="1234"
+verification_photo_hash="1234"
+
+[[CURRENCIES]]
+code="XPX"
+issuer="GALTIA73LATASBGO63SG3EK7OFH5FT4P7ODI2HRNNFI4ZVWMMD5KQH2W"
+display_decimals=2
+name="Stronghold Token"
+desc="The Stronghold token."
+image="https://ripaex.io/images/mediaKit/logos/RIPA_light_mini_transparent.png"
+redemption_instructions=""
+
+[[CURRENCIES]]
+code="ARK"
+issuer="GALTIA73LATASBGO63SG3EK7OFH5FT4P7ODI2HRNNFI4ZVWMMD5KQH2W"
+display_decimals=8
+anchor_asset_type="crypto"
+anchor_asset="ARK"
+name="ARK"
+desc="ARK - Point, Click, Blockchain"
+image="https://ripaex.io/images/mediaKit/logos/RIPA_light_mini_transparent.png"
+redemption_instructions=""
+collateral_addresses="AFuusaPM9gLAoXNN6m59DBWfGCkGAvNpFD"
+collateral_address_messages="This address belongs to RipaEx - Crypto Asset Marketplace"
+collateral_address_signatures=""
+# ----- To Your Success... -----
