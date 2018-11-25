@@ -31,10 +31,13 @@ verification_photo_hash="1234"
 code="XPX"
 issuer="GALTIA73LATASBGO63SG3EK7OFH5FT4P7ODI2HRNNFI4ZVWMMD5KQH2W"
 display_decimals=2
-name="Stronghold Token"
-desc="The Stronghold token."
+name="RipaEx Token"
+desc="The RipaEx token."
 image="https://ripaex.io/assets/images/ripaex_toml.png"
 redemption_instructions=""
+collateral_addresses="PX98V1FhJkVdBgw3pt1bMbCksuJEYtAmiK"
+collateral_address_messages="This address belongs to RipaEx - Crypto Asset Marketplace"
+collateral_address_signatures="1234"
 
 [[CURRENCIES]]
 code="ARK"
@@ -48,5 +51,5 @@ image="https://ripaex.io/assets/images/ripaex_toml.png"
 redemption_instructions=""
 collateral_addresses="AFuusaPM9gLAoXNN6m59DBWfGCkGAvNpFD"
 collateral_address_messages="This address belongs to RipaEx - Crypto Asset Marketplace"
-collateral_address_signatures=""
+collateral_address_signatures="1234"
 # ----- To Your Success... -----
