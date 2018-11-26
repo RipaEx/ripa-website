@@ -17,7 +17,7 @@
             <a href="https://www.graviex.net/markets/xpxbtc"><img alt="Graviex" title="Graviex" class="nspImageExchanges" src="images/listingServices/graviex_new.jpg" /></a>
           </div>
           <div class="col-sm nspInvestmentLevelsBox nevenInvestmentLevelsTextV">
-            <a href="https://www.altilly.com/market/XPX_BTC"><img alt="Altilly" title="Altilly" class="nspImageExchanges" src="images/listingServices/altilly-sm.png" /></a>
+            <a href="https://www.altilly.com/market/XPX_BTC/?a=f4973&z=ripaexHome"><img alt="Altilly" title="Altilly" class="nspImageExchanges" src="images/listingServices/altilly-sm.png" /></a>
           </div>
         </div>
       </div>
