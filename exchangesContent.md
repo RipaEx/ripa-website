@@ -39,7 +39,7 @@
         var s = document.createElement("script");
         s.type = "text/javascript";
         s.async = true;
-        var theUrl = baseUrl+'serve/v3/coin/chart?fsym=RIPAX&tsyms=USD,EUR,BTC,GOLD,GBP,JPY';
+        var theUrl = baseUrl+'serve/v3/coin/chart?fsym=RIPAX&tsyms=EUR,BTC,USD,GBP,JPY,GOLD';
         s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
         embedder.parentNode.appendChild(s);
         })();
@@ -57,7 +57,7 @@
         var s = document.createElement("script");
         s.type = "text/javascript";
         s.async = true;
-        var theUrl = baseUrl+'serve/v1/coin/histo_week?fsym=RIPAX&tsym=EUR';
+        var theUrl = baseUrl+'serve/v1/coin/histo_week?fsym=RIPAX&tsym=BTC';
         s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
         embedder.parentNode.appendChild(s);
         })();
