@@ -6,7 +6,7 @@
       <div class="col-12 center">
         <header>
           <h3 style="color: #D4AF37">Exchanges</h3>
-          <p>List of all exchanges where you can trade XPX coins, along with live charts from CoinGecko and historical data.</p>
+          <p>List of all exchanges where you can trade XPX coins, along with live charts from CryptoCompare and historical data.</p>
         </header>
       </div>
     </div>
