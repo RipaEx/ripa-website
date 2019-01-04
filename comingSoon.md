@@ -18,8 +18,8 @@ permalink: /comingSoon/
                     <a class="btn-shadow btn-shadow-info mr-md-1" href="https://tec.ripaex.io/sign-up">
                         Buy XPX NOW
                     </a>
-                    <a class="btn-shadow btn-shadow-info mr-md-1" href="https://rubykube.io/">
-                        Start your exchange
+                    <a class="btn-shadow btn-shadow-info mr-md-1" href="http://demo.ripaex.io/">
+                        Demo Login
                     </a>
                 </div>
             </div>

@@ -15582,7 +15582,24 @@ body {
     color: #B8860B;
     border-color: #B8860B;
   }
-  .navbar-light .nav-item .nav-link--rounded:active {
+  .navbar-light .nav-item .nav-link--rounded-blue {
+    text-transform: capitalize;
+    border: 1px solid #284676;
+    color: #284676;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 22px;
+    padding: 8px 20px 9px;
+    -webkit-transition: all 0.15s ease-out;
+    -moz-transition: all 0.15s ease-out;
+    -ms-transition: all 0.15s ease-out;
+    -o-transition: all 0.15s ease-out;
+    transition: all 0.15s ease-out;
+  }
+  .navbar-light .nav-item .nav-link--rounded-blue:hover {
+    color: #0c1523;
+    border-color: #0c1523;
+  }  .navbar-light .nav-item .nav-link--rounded:active {
     -moz-transform: scale(0.93);
     -o-transform: scale(0.93);
     -ms-transform: scale(0.93);

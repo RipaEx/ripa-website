@@ -81,6 +81,29 @@ body {
         }
       }
 
+      &--rounded-blue {
+        @media(min-width: 1200px) {
+          text-transform: capitalize;
+          border: 1px solid #0c1523;
+          color: #0c1523;
+          border-radius: 25px;
+          margin-left: 20px;
+          margin-top: 22px;
+          padding: 8px 20px 9px;
+
+          @include transition(all .15s ease-out);
+
+          &:hover {
+            color: #B8860B;
+            border-color: #B8860B;
+          }
+
+          &:active {
+            @include transform(scale(0.93));
+          }
+        }
+      }
+
       i {
         margin-left: 4px;
         font-size: 10px;
