@@ -35,8 +35,8 @@
                     </div>
                     <div class="col-sm neven">
                       <p style="text-align: center;">
-                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/isolagio.jpg"> <br>
-                        <b>Giorgio Isola</b><br> CDO
+                        <img alt="RIPA TEAM" title="RIPA Team" class="nspImage" src="images/team/ilgio.png"> <br>
+                        <b>Ilgio</b><br> CDO
                       </p>
                       <p style="text-align: center;">
                         <a target="_blank" href="https://bitcointalk.org/"><i class="fab fa-bitcoin "></i></a>
